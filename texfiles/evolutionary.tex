@@ -1,0 +1,90 @@
+\section{Evolutionary Test in Load, Performance and Stress Tests}
+
+The search for the longest execution time is regarded as a discontinuous, nonlinear, optimization problem, with the input domain of the system under test as search space \cite{Sullivan}. The main objective of evolutionary testing in performance,stress and load tests is to find test scenarios which produce execution times violating the timing constraints specified. If a temporal error is found, the test was successful \cite{Sullivan}. 
+% * <naubergois@gmail.com> 2015-09-17T01:03:19.641Z:
+%
+%  Verificar frase repetida
+%
+
+Errors in a load, performance and stress test usually result from a violation of specified timing constraints. If the execution times exceed the specified constraints, an error has been detected. 
+
+The application of evolutionary algorithms to test requirements involves finding the best and worst case execution times (BCET, WCET) to determine if timing constraints are fulfilled \cite{Afzal2009a}. The WCET of a code is a fundamental non-functional characteristic of real-time systems \cite{tracey2000search}.
+
+Evolutionary tests uses a cost (fitnesse) function to select the best individuals. There are two main approaches to determine a fitnesse function to a evolutionary test: analysis and measurement. 
+% * <naubergois@gmail.com> 2015-09-17T01:13:45.382Z:
+%
+%  execution time e processor cycles
+%
+
+The analysis approach describes a fitness function in terms of processor cycles. The majority of the analysis approach's researches has used user supplied annotations. The annotations are used to describe bounds on loop iterations and dependencies between conditional predicates. There are a number of limitations in this approach, the construction and maintenance of the annotations imposes and additional overhead on the software developer \cite{tracey2000search}.
+
+The measurement approach involves executing the application under test measuring the execution time. The test main goal is to locate the worst-case path through the application under test. This approach can't guarantee that the longest path has been executed \cite{tracey2000search}. 
+
+The table \ref{tab:fitapproach} presents the fitnesse function approach used by each paper.
+
+\begin{table}[h]
+\centering
+\caption{Studies using evolutionary test with Load, Performance or Stress Test}
+\label{tab:fitapproach}
+\begin{tabular}{|l|l|}
+\hline
+Authors & Fitnesse function approach\\
+\hline
+Wegener et al. \cite{J.WegenerK.GrimmM.GrochtmannH.Sthamer1996}& Measurement \\
+\hline
+Alander et al. \cite{alander1998searching}& Measurement \\
+\hline
+Wegener et al. \cite{wegener1997testing} & Analysis \\
+\hline
+Wegener et al. \cite{wegener1998verifying}& Analysis\\
+\hline
+O'Sullivan et al.\cite{Sullivan}& Analysis\\
+\hline
+Tracey et al.\cite{Tracey1998}&  Measurement\\
+\hline
+Mueller et al.\cite{Mueller1998}& Analysis\\
+\hline
+Puschner et al.\cite{Puschner1998}&Analysis\\
+\hline
+Wegener et al.\cite{Stations}&Analysis\\
+\hline
+Gro\ss\hspace{1pt} \cite{Gro}\cite{Gross2003}&  Measurement\\
+\hline
+Briand et al. \cite{Briand2005}&  Measurement\\
+\hline
+Canfora et al \cite{Canfora}&  Measurement\\
+\hline
+Tlili et al. \cite{Tlili1917}&Analysis\\
+\hline
+Di Penta et al. \cite{Penta2007}&  Measurement\\
+\hline
+Garousi \cite{Garousi2006}&  Measurement\\
+\hline
+Garousi \cite{Garousi2008}&  Measurement\\
+\hline
+Garousi \cite{Garousi2010}&  Measurement\\
+
+\hline
+\end{tabular}
+\end{table}
+
+% * <naubergois@gmail.com> 2015-09-17T01:17:52.488Z:
+%
+%  Rever esse paragrafo
+%
+The Figure \ref{fig:comparison}  shows the studies found in the study systematic review and a comparison between this research and the others studies. The x axis represents the type of tool used  and the y axis presents the metaheuristic used by each study. The Figure also divides the studies by the type of function fitnesse (analysis or measurement).
+
+% * <naubergois@gmail.com> 2015-09-17T01:22:09.554Z:
+%
+%  Customized Algorithm
+%
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{./images/comparativo.png}
+\caption{
+Distribution of the researches over range of applied metaheuristics}
+\label{fig:comparison}
+\end{figure}
+
+
