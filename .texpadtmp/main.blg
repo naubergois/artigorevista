@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: ../model1-num-names.bst
+Database file #1: ../sample.bib
+Repeated entry---line 539 of file ../sample.bib
+ : @article{Sandler2004
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 565 of file ../sample.bib
+ : @book{Molyneaux2009
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--missing school in Jiang2010
+Warning--empty pages in Draheim2006b
+Warning--empty journal in Fe2004
+Warning--empty journal in Sullivan
+Warning--empty year in Sullivan; set to ????
+Warning--empty journal in Sandler2004
+Warning--empty journal in Goncalves2014
+Warning--empty journal in Tracey1998
+Warning--empty journal in Gro
+Warning--empty journal in Canfora
+Warning--empty year in Canfora; set to ????
+Warning--empty journal in Nevedrov2007
+You've used 37 entries,
+            2616 wiz_defined-function locations,
+            796 strings with 10959 characters,
+and the built_in function-call counts, 18151 in all, are:
+= -- 1426
+> -- 710
+< -- 25
++ -- 272
+- -- 231
+* -- 2045
+:= -- 2942
+add.period$ -- 37
+call.type$ -- 37
+change.case$ -- 255
+chr.to.int$ -- 37
+cite$ -- 49
+duplicate$ -- 1183
+empty$ -- 1186
+format.name$ -- 322
+if$ -- 3245
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 253
+newline$ -- 165
+num.names$ -- 148
+pop$ -- 310
+preamble$ -- 1
+purify$ -- 260
+quote$ -- 0
+skip$ -- 386
+stack$ -- 0
+substring$ -- 792
+swap$ -- 906
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 321
+warning$ -- 12
+while$ -- 141
+width$ -- 0
+write$ -- 451
+(There were 2 error messages)

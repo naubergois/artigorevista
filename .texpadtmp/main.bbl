@@ -1,0 +1,252 @@
+\begin{thebibliography}{37}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Phdthesis
+\bibitem[{Jiang(2010)}]{Jiang2010}
+\bibinfo{author}{Z.~Jiang}, \bibinfo{title}{{Automated analysis of load testing
+  results}}, Ph.D. thesis, \bibinfo{year}{2010}.
+%Type = Article
+\bibitem[{Jiang and Hassan(2009)}]{Jiang2009}
+\bibinfo{author}{Z.~Jiang}, \bibinfo{author}{A.~Hassan},
+\newblock \bibinfo{title}{{Automated performance analysis of load tests}},
+\newblock \bibinfo{journal}{\ldots , 2009. ICSM 2009. IEEE \ldots}
+  (\bibinfo{year}{2009}).
+%Type = Book
+\bibitem[{Molyneaux(2009)}]{Molyneaux2009}
+\bibinfo{author}{I.~Molyneaux}, \bibinfo{title}{{The Art of Application
+  Performance Testing}}, \bibinfo{publisher}{"O'Reilly Media, Inc."},
+  \bibinfo{year}{2009}.
+%Type = Inproceedings
+\bibitem[{Draheim et~al.(2006)Draheim, Grundy, Hosking, Lutteroth, and
+  Weber}]{Draheim2006b}
+\bibinfo{author}{D.~Draheim}, \bibinfo{author}{J.~Grundy},
+  \bibinfo{author}{J.~Hosking}, \bibinfo{author}{C.~Lutteroth},
+  \bibinfo{author}{G.~Weber},
+\newblock \bibinfo{title}{{Realistic load testing of Web applications}},
+\newblock in: \bibinfo{booktitle}{Conference on Software Maintenance and
+  Reengineering (CSMR'06)}.
+%Type = Article
+\bibitem[{Kuhn(1997)}]{Kuhn1997}
+\bibinfo{author}{D.~R. Kuhn},
+\newblock \bibinfo{title}{{Sources of failure in the public switched telephone
+  network}},
+\newblock \bibinfo{journal}{Computer} \bibinfo{volume}{30}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{31--36}.
+%Type = Article
+\bibitem[{Garousi(2010)}]{Garousi2010}
+\bibinfo{author}{V.~Garousi},
+\newblock \bibinfo{title}{{A Genetic Algorithm-Based Stress Test Requirements
+  Generator Tool and Its Empirical Evaluation}},
+\newblock \bibinfo{journal}{IEEE Transactions on Software Engineering}
+  \bibinfo{volume}{36} (\bibinfo{year}{2010}) \bibinfo{pages}{778--797}.
+%Type = Article
+\bibitem[{Babbar et~al.(2011)Babbar, Bajpai, and Sarmah}]{Babbar2011}
+\bibinfo{author}{C.~Babbar}, \bibinfo{author}{N.~Bajpai},
+  \bibinfo{author}{D.~Sarmah},
+\newblock \bibinfo{title}{{Web Application Performance Analysis based on
+  Component Load Testing}},
+\newblock \bibinfo{journal}{International Journal of Technology \ldots}
+  (\bibinfo{year}{2011}).
+%Type = Phdthesis
+\bibitem[{Luiz et~al.(2011)Luiz, Freitas, Prof, and Vieira}]{Luiz2011}
+\bibinfo{author}{A.~Luiz}, \bibinfo{author}{C.~Freitas},
+  \bibinfo{author}{O.~Prof}, \bibinfo{author}{R.~Vieira},
+  \bibinfo{title}{{Ontologias para Teste de Desempenho de Software}}, Ph.D.
+  thesis, Pontif{\'\i}cia Universidade Cat{\'o}lica do Rio Grande do Sul,
+  \bibinfo{year}{2011}.
+%Type = Article
+\bibitem[{F\'{e} and dos Santos(2004)}]{Fe2004}
+\bibinfo{author}{I.~D.~S. F\'{e}}, \bibinfo{author}{P.~d.~A. dos Santos},
+\newblock \bibinfo{title}{{Os custos dos Testes de Desempenho e Estresse}}
+  (\bibinfo{year}{2004}).
+%Type = Article
+\bibitem[{Afzal et~al.(2009)Afzal, Torkar, and Feldt}]{Afzal2009a}
+\bibinfo{author}{W.~Afzal}, \bibinfo{author}{R.~Torkar},
+  \bibinfo{author}{R.~Feldt},
+\newblock \bibinfo{title}{{A systematic review of search-based testing for
+  non-functional system properties}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{51} (\bibinfo{year}{2009}) \bibinfo{pages}{957--976}.
+%Type = Article
+\bibitem[{{Wegener, Joachim and Pitschinetz, Roman and
+  Sthamer}(2000)}]{Stations}
+\bibinfo{author}{H.~{Wegener, Joachim and Pitschinetz, Roman and Sthamer}},
+\newblock \bibinfo{title}{{Automated Testing of Real-Time Tasks}},
+\newblock \bibinfo{journal}{Proceedings of the 1st International Workshop on
+  Automated Program Analysis, Testing and Verification (WAPATV'00)}
+  (\bibinfo{year}{2000}).
+%Type = Article
+\bibitem[{Sullivan et~al.(????)Sullivan, V\"{o}ssner, Wegener, and
+  Ag}]{Sullivan}
+\bibinfo{author}{M.~O. Sullivan}, \bibinfo{author}{S.~V\"{o}ssner},
+  \bibinfo{author}{J.~Wegener}, \bibinfo{author}{D.-b. Ag},
+\newblock \bibinfo{title}{{Testing Temporal Correctness of Real-Time Systems
+  --- A New Approach Using Genetic Algorithms and Cluster Analysis ---}}
+  (????) \bibinfo{pages}{1--20}.
+%Type = Article
+\bibitem[{Sandler et~al.(2004)Sandler, Badgett, and Thomas}]{Sandler2004}
+\bibinfo{author}{C.~Sandler}, \bibinfo{author}{T.~Badgett},
+  \bibinfo{author}{T.~Thomas},
+\newblock \bibinfo{title}{{The Art of Software Testing}}
+  (\bibinfo{year}{2004}) \bibinfo{pages}{200}.
+%Type = Misc
+\bibitem[{Corporation(2007)}]{Corporation2007}
+\bibinfo{author}{M.~Corporation}, \bibinfo{title}{{Performance Testing Guidance
+  for Web Applications}}, \bibinfo{year}{2007}.
+%Type = Book
+\bibitem[{Bernard(2012)}]{bernard2012foundations}
+\bibinfo{author}{P.~Bernard}, \bibinfo{title}{Foundations of ITIL},
+  \bibinfo{publisher}{Van Haren}, \bibinfo{year}{2012}.
+%Type = Article
+\bibitem[{{Di Lucca} and Fasolino(2006)}]{DiLucca2006}
+\bibinfo{author}{G.~a. {Di Lucca}}, \bibinfo{author}{A.~R. Fasolino},
+\newblock \bibinfo{title}{{Testing Web-based applications: The state of the art
+  and future trends}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{48} (\bibinfo{year}{2006}) \bibinfo{pages}{1172--1186}.
+%Type = Book
+\bibitem[{Feitelson(2013)}]{Feitelson2013}
+\bibinfo{author}{D.~G. Feitelson}, \bibinfo{title}{{Workload Modeling for
+  Computer Systems Performance Evaluation}}, \bibinfo{publisher}{Cambridge
+  University Press}, \bibinfo{year}{2013}.
+%Type = Article
+\bibitem[{Gon\c{c}alves(2014)}]{Goncalves2014}
+\bibinfo{author}{M.~C. Gon\c{c}alves},
+\newblock \bibinfo{title}{{Um Processo de Infer\^{e}ncia de Desempenho para
+  Apoiar o Planejamento da Capacidade de Aplica\c{c}\~{o}es na Nuvem Um
+  Processo de Infer\^{e}ncia de Desempenho para Apoiar o Planejamento da
+  Capacidade de Aplica\c{c}\~{o}es na Nuvem}}  (\bibinfo{year}{2014}).
+%Type = Article
+\bibitem[{Puchinger and Raidl(2005)}]{Puchinger2005}
+\bibinfo{author}{J.~Puchinger}, \bibinfo{author}{R.~Raidl},
+\newblock \bibinfo{title}{{Combining Metaheuristics and Exact Algorithms in
+  Combinatorial Optimization : A Survey and Classification}},
+\newblock \bibinfo{journal}{Artificial Intelligence and Knowledge Engineering
+  Applications a Bioinspired Approach} \bibinfo{volume}{3562}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{41--53}.
+%Type = Article
+\bibitem[{Blum(2012)}]{Blum2012}
+\bibinfo{author}{C.~Blum},
+\newblock \bibinfo{title}{{Hybrid metaheuristics in combinatorial optimization:
+  A tutorial}},
+\newblock \bibinfo{journal}{Lecture Notes in Computer Science (including
+  subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)} \bibinfo{volume}{7505 LNCS} (\bibinfo{year}{2012})
+  \bibinfo{pages}{1--10}.
+%Type = Phdthesis
+\bibitem[{Tracey(2000)}]{tracey2000search}
+\bibinfo{author}{N.~J. Tracey}, \bibinfo{title}{A search-based automated
+  test-data generation framework for safety-critical software}, Ph.D. thesis,
+  Citeseer, \bibinfo{year}{2000}.
+%Type = Article
+\bibitem[{{J. Wegener, K. Grimm, M. Grochtmann, H.
+  Sthamer}(1996)}]{J.WegenerK.GrimmM.GrochtmannH.Sthamer1996}
+\bibinfo{author}{B.~J. {J. Wegener, K. Grimm, M. Grochtmann, H. Sthamer}},
+\newblock \bibinfo{title}{{Systematic testing of real-time systems}},
+\newblock \bibinfo{journal}{EuroSTAR'96: Proceedings of the Fourth
+  International Conference on Software Testing Analysis and Review}
+  (\bibinfo{year}{1996}).
+%Type = Article
+\bibitem[{Alander et~al.(1998)Alander, Mantere, Moghadampour, and
+  Matila}]{alander1998searching}
+\bibinfo{author}{J.~T. Alander}, \bibinfo{author}{T.~Mantere},
+  \bibinfo{author}{G.~Moghadampour}, \bibinfo{author}{J.~Matila},
+\newblock \bibinfo{title}{Searching protection relay response time extremes
+  using genetic algorithm---software quality by optimization},
+\newblock \bibinfo{journal}{Electric Power Systems Research}
+  \bibinfo{volume}{46} (\bibinfo{year}{1998}) \bibinfo{pages}{229--233}.
+%Type = Article
+\bibitem[{Wegener et~al.(1997)Wegener, Sthamer, Jones, and
+  Eyres}]{wegener1997testing}
+\bibinfo{author}{J.~Wegener}, \bibinfo{author}{H.~Sthamer},
+  \bibinfo{author}{B.~F. Jones}, \bibinfo{author}{D.~E. Eyres},
+\newblock \bibinfo{title}{Testing real-time systems using genetic algorithms},
+\newblock \bibinfo{journal}{Software Quality Journal} \bibinfo{volume}{6}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{127--135}.
+%Type = Article
+\bibitem[{Wegener and Grochtmann(1998)}]{wegener1998verifying}
+\bibinfo{author}{J.~Wegener}, \bibinfo{author}{M.~Grochtmann},
+\newblock \bibinfo{title}{Verifying timing constraints of real-time systems by
+  means of evolutionary testing},
+\newblock \bibinfo{journal}{Real-Time Systems} \bibinfo{volume}{15}
+  (\bibinfo{year}{1998}) \bibinfo{pages}{275--298}.
+%Type = Article
+\bibitem[{Tracey et~al.(1998)Tracey, Clark, and Mander}]{Tracey1998}
+\bibinfo{author}{N.~J. Tracey}, \bibinfo{author}{J.~a. Clark},
+  \bibinfo{author}{K.~C. Mander},
+\newblock \bibinfo{title}{{Automated Programme Flaw Finding using Simulated
+  Annealing}}  (\bibinfo{year}{1998}).
+%Type = Article
+\bibitem[{Mueller and Wegener(1998)}]{Mueller1998}
+\bibinfo{author}{F.~Mueller}, \bibinfo{author}{J.~Wegener},
+\newblock \bibinfo{title}{{A comparison of static analysis and evolutionary
+  testing for the verification of timing constraints}},
+\newblock \bibinfo{journal}{Proceedings. Fourth IEEE Real-Time Technology and
+  Applications Symposium (Cat. No.98TB100245)}  (\bibinfo{year}{1998}).
+%Type = Article
+\bibitem[{Puschner and Nossal(1998)}]{Puschner1998}
+\bibinfo{author}{P.~Puschner}, \bibinfo{author}{R.~Nossal},
+\newblock \bibinfo{title}{{Testing the results of static worst-case
+  execution-time analysis}},
+\newblock \bibinfo{journal}{Proceedings 19th IEEE Real-Time Systems Symposium
+  (Cat. No.98CB36279)}  (\bibinfo{year}{1998}).
+%Type = Article
+\bibitem[{Gro(2001)}]{Gro}
+\bibinfo{author}{H.-G. Gro},
+\newblock \bibinfo{title}{A prediction system for dynamic optimisation-based
+  execution time analysis}  (\bibinfo{year}{2001}).
+%Type = Misc
+\bibitem[{Gross(2003)}]{Gross2003}
+\bibinfo{author}{H.~Gross}, \bibinfo{title}{{An evaluation of dynamic,
+  optimisation-based worst-case execution time analysis}},
+  \bibinfo{year}{2003}.
+%Type = Article
+\bibitem[{Briand et~al.(2005)Briand, Labiche, and Shousha}]{Briand2005}
+\bibinfo{author}{L.~C. Briand}, \bibinfo{author}{Y.~Labiche},
+  \bibinfo{author}{M.~Shousha},
+\newblock \bibinfo{title}{{Stress testing real-time systems with genetic
+  algorithms}},
+\newblock \bibinfo{journal}{Proceedings of the 2005 conference on Genetic and
+  evolutionary computation - GECCO '05}  (\bibinfo{year}{2005})
+  \bibinfo{pages}{1021}.
+%Type = Article
+\bibitem[{Canfora et~al.(????)Canfora, Penta, Esposito, and Villani}]{Canfora}
+\bibinfo{author}{G.~Canfora}, \bibinfo{author}{M.~D. Penta},
+  \bibinfo{author}{R.~Esposito}, \bibinfo{author}{M.~L. Villani},
+\newblock \bibinfo{title}{{2005., Canfora, G., An approach for QoS-aware
+  service composition based on genetic algorithms}}  (????).
+%Type = Article
+\bibitem[{Tlili et~al.(1917)Tlili, Wappler, and Sthamer}]{Tlili1917}
+\bibinfo{author}{M.~Tlili}, \bibinfo{author}{S.~Wappler},
+  \bibinfo{author}{H.~Sthamer},
+\newblock \bibinfo{title}{{Improving Evolutionary Real-Time Testing}},
+\newblock \bibinfo{journal}{Technology}  (\bibinfo{year}{1917})
+  \bibinfo{pages}{1917--1924}.
+%Type = Inproceedings
+\bibitem[{Penta et~al.(2007)Penta, Canfora, and Esposito}]{Penta2007}
+\bibinfo{author}{M.~D. Penta}, \bibinfo{author}{G.~Canfora},
+  \bibinfo{author}{G.~Esposito},
+\newblock \bibinfo{title}{{Search-based testing of service level agreements}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 9th annual conference on
+  Genetic and evolutionary computation}, pp. \bibinfo{pages}{1090--1097}.
+%Type = Book
+\bibitem[{Garousi(2006)}]{Garousi2006}
+\bibinfo{author}{V.~Garousi}, \bibinfo{title}{{Traffic-aware Stress Testing of
+  Distributed Real-Time Systems based on UML Models using Genetic Algorithms}},
+  \bibinfo{number}{August}, \bibinfo{year}{2006}.
+%Type = Article
+\bibitem[{Garousi(2008)}]{Garousi2008}
+\bibinfo{author}{V.~Garousi},
+\newblock \bibinfo{title}{{Empirical analysis of a genetic algorithm-based
+  stress test technique}},
+\newblock \bibinfo{journal}{Proceedings of the 10th annual conference on
+  Genetic and evolutionary computation - GECCO '08}  (\bibinfo{year}{2008})
+  \bibinfo{pages}{1743}.
+%Type = Article
+\bibitem[{Nevedrov(2007)}]{Nevedrov2007}
+\bibinfo{author}{D.~Nevedrov},
+\newblock \bibinfo{title}{{Using JMeter to Performance Test Web Services}}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{1--11}.
+
+\end{thebibliography}

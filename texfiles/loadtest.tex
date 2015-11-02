@@ -2,11 +2,6 @@
 
 Load, performance and stress testing is typically done to locate bottlenecks in a system, to support a performance tuning effort and to collect other performance-related indicators to help stakeholders get informed about the quality of the application being tested \cite{Sandler2004} \cite{Corporation2007}. 
 
-
-The application's quality is intrinsically related with the end users carrying out their tasks in a acceptable time. From an end-user perspective, good response time is very much a matter of perception. For example, an average response time of 60 seconds for a call-center application may be perfectly acceptable, whereas the same response for a critical stock trading application would render it completely unusable \cite{Molyneaux2009}.
-
-Performance Failures are associated with performance slowdowns, they impact the user experience. Service Level Agreement (SLA) violations are examples of performance failures. SLA is a contract with potential users on the non-functional properties like response time and reliability, as well as other requirements, like costs \cite{bernard2012foundations} \cite{Jiang2010}.
-
 The Performance Test aims at verifying a specified system performance. This kind of test is executed by simulating hundreds or more simultaneous users  over a defined time interval \cite{DiLucca2006}. The purpose of this test is to demonstrate that the system  reaches its performance objectives \cite{Sandler2004}. 
 
 
@@ -14,33 +9,8 @@ In load tests, the system is evaluated in pre-defined load levels \cite{DiLucca2
 
 Stress test verifies the system behaviour against heavy workloads \cite{Sandler2004}, being executed to evaluate a system beyond its limits, validate system response in activity peaks and verify if the system is able from recover from these conditions. They differ from other kinds of testing  because the system is executed on or beyond its breakpoints, forcing the application or the supporting infrastructure to fail \cite{DiLucca2006} \cite{Molyneaux2009}.
 
-There are three different approaches to run Load, Performance and Stress testing \cite{Jiang2010}:
-
-\begin{itemize}
-\item Use real live-users to manually generate the load;
-\item Use load drivers to automatically generate the load;
-\item Deploying the execution of the load,performance or stress using a automated tool.
-% * <naubergois@gmail.com> 2015-09-17T00:14:36.387Z:
-%
-%  Rever frase
-%
-\end{itemize}
-
-Automated tools are needed to carry out serious load, stress and performance testing. Sometimes , there is simply no practical way to provide reliable, repeatable performance tests without using some form of automation. The aim of any automated test tool is to simplify the testing process. They normally have the following components \cite{Molyneaux2009}:
-
-\begin{itemize}
-\item Scripting module: This module it used to the design of test script.
-% * <naubergois@gmail.com> 2015-09-17T00:18:01.644Z:
-%
-%  Finalidade do modulo
-%
-\item Test management module: Allows the creation and execution of load test sessions or scenarios that represent different mixes of end-user activity.
-\item Load injector(s): Generate the load from multiple workstations or servers.
-\item Analysis module: Provides the ability to analyze the data for each test execution.
-\end{itemize}
+Automated tools are needed to carry out serious load, stress and performance testing. Sometimes , there is simply no practical way to provide reliable, repeatable performance tests without using some form of automation. The aim of any automated test tool is to simplify the testing process \cite{Molyneaux2009}.
 
 In the context of  testing, a scenario is a sequence of steps in your application. It can represent a use case or a business function such as searching a product catalog, adding an item to a shopping cart or placing an order \cite{Corporation2007}. 
-
-The testing scenarios need to be implemented in the language of the chosen testing software. Abstract descriptions of user behaviour are transformed into scripted transactions.
 
 Load, Performance and Stress results are measured by indicators. Some researchers advocate the 90-percentile response time is a better measurement than the average/medium response time, as the 90-percentile accounts for most of the peaks, while eliminating the outliers \cite{Jiang2010}.
