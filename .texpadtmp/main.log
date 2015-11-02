@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 NOV 2015 16:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 NOV 2015 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1192,23 +1192,28 @@ Underfull \hbox (badness 1466) in paragraph at lines 1--1
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `Afzal2009' on page 3 undefined on input line 
+5.
 
-<./images/comparativo.png, id=15, 672.43347pt x 738.72838pt>
-File: ./images/comparativo.png Graphic file (type png)
 
-<use ./images/comparativo.png>
-Package pdftex.def Info: ./images/comparativo.png used on input line 84.
-(pdftex.def)             Requested size: 234.0pt x 257.07089pt.
+Package natbib Warning: Citation `Afzal2009' on page 3 undefined on input line 
+10.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 84--86
+<./images/comparativo1.png, id=15, 705.62834pt x 540.98174pt>
+File: ./images/comparativo1.png Graphic file (type png)
+
+<use ./images/comparativo1.png>
+Package pdftex.def Info: ./images/comparativo1.png used on input line 19.
+(pdftex.def)             Requested size: 234.0pt x 179.39952pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 19--21
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 ) (./texfiles/iadapter.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./images/metaheuristcs.png> <./images/comparativo1.png>]
 LaTeX Font Info:    Try loading font information for OMS+txr on input line 8.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
@@ -1216,8 +1221,8 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 8.
- [3 <./images/metaheuristcs.png>] <./images/independ.png, id=21, 354.23682pt x 
-268.49918pt>
+
+<./images/independ.png, id=21, 354.23682pt x 268.49918pt>
 File: ./images/independ.png Graphic file (type png)
 
 <use ./images/independ.png>
@@ -1227,9 +1232,6 @@ Package pdftex.def Info: ./images/independ.png used on input line 23.
 Overfull \hbox (12.0pt too wide) in paragraph at lines 23--25
 [][]
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 <./images/collaborative.png, id=22, 654.445pt x 302.12875pt>
 File: ./images/collaborative.png Graphic file (type png)
@@ -1254,19 +1256,15 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 51--53
 [][]
  []
 
-[4 <./images/comparativo.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[4 <./images/independ.png> <./images/collaborative.png>]
 Underfull \hbox (badness 1400) in paragraph at lines 72--72
 []\OT1/txr/m/it/10 Tabu Search and Sim-u-lated An-neal-ing al-go-
  []
 
-<./images/TabuNE.png, id=28, 582.14339pt x 438.5518pt>
+<./images/TabuNE.png, id=30, 582.14339pt x 438.5518pt>
 File: ./images/TabuNE.png Graphic file (type png)
 
 <use ./images/TabuNE.png>
@@ -1277,8 +1275,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 78--80
 [][]
  []
 
-[5 <./images/independ.png> <./images/collaborative.png> <./images/genomereprese
-ntation.png>] <./images/tela1iadapter.png, id=35, 997.7275pt x 674.52pt>
+<./images/tela1iadapter.png, id=31, 997.7275pt x 674.52pt>
 File: ./images/tela1iadapter.png Graphic file (type png)
 
 <use ./images/tela1iadapter.png>
@@ -1292,11 +1289,12 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 99--101
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./texfiles/experiments.tex [6 <./images/TabuNE.png> <./images/tela1iadapter.
-png>] (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
+) (./texfiles/experiments.tex [5 <./images/genomerepresentation.png> <./images/
+TabuNE.png>]
+(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
-<./images/generationcomparative.png, id=42, 953.54669pt x 505.79515pt>
+<./images/generationcomparative.png, id=37, 953.54669pt x 505.79515pt>
 File: ./images/generationcomparative.png Graphic file (type png)
 
 <use ./images/generationcomparative.png>
@@ -1311,12 +1309,9 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 64--66
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[6 <./images/tela1iadapter.png> <./images/generationcomparative.png>]
 
-Underfull \vbox (badness 1331) has occurred while \output is active []
-
- [7 <./images/generationcomparative.png>]
-
-LaTeX Warning: Reference `tab:secondexperiment11' on page 8 undefined on input 
+LaTeX Warning: Reference `tab:secondexperiment11' on page 7 undefined on input 
 line 149.
 
 
@@ -1327,8 +1322,8 @@ Overfull \hbox (55.99997pt too wide) in paragraph at lines 157--175
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./texfiles/conclusion.tex)
-(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [8]
+) (./texfiles/conclusion.tex [7])
+(/Users/naubergois/artigorevista/.texpadtmp/main.bbl
 Underfull \hbox (badness 1270) in paragraph at lines 153--161
 \OT1/txr/m/n/8 ing pro-tec-tion re-lay re-sponse time ex-tremes us-ing ge-netic
 
@@ -1337,20 +1332,25 @@ Underfull \hbox (badness 1270) in paragraph at lines 153--161
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [9]
-(/Users/naubergois/artigorevista/.texpadtmp/main.aux)
+ [8])
+
+Package natbib Warning: There were undefined citations.
+
+[9
+
+] (/Users/naubergois/artigorevista/.texpadtmp/main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  13675 strings out of 493488
- 215646 string characters out of 3141326
- 732761 words of memory out of 3000000
+ 215645 string characters out of 3141326
+ 733761 words of memory out of 3000000
  16640 multiletter control sequences out of 15000+200000
  38242 words of font info for 94 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 53i,11n,97p,724b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,11n,97p,869b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2
@@ -1360,7 +1360,7 @@ mf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-dist
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (9 pages,
- 6071795 bytes).
+ 4794587 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
