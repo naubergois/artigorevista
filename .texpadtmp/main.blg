@@ -11,6 +11,7 @@ Repeated entry---line 565 of file ../sample.bib
  : @book{Molyneaux2009
  :                    ,
 I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in Afzal2009
 Warning--missing school in Jiang2010
 Warning--empty pages in Draheim2006b
 Warning--empty journal in Fe2004
@@ -18,50 +19,47 @@ Warning--empty journal in Sullivan
 Warning--empty year in Sullivan; set to ????
 Warning--empty journal in Sandler2004
 Warning--empty journal in Goncalves2014
-Warning--empty journal in Tracey1998
-Warning--empty journal in Gro
-Warning--empty journal in Canfora
-Warning--empty year in Canfora; set to ????
+Warning--empty author in Afzal2009
 Warning--empty journal in Nevedrov2007
-You've used 37 entries,
+You've used 22 entries,
             2616 wiz_defined-function locations,
-            796 strings with 10959 characters,
-and the built_in function-call counts, 18151 in all, are:
-= -- 1426
-> -- 710
-< -- 25
-+ -- 272
-- -- 231
-* -- 2045
-:= -- 2942
-add.period$ -- 37
-call.type$ -- 37
-change.case$ -- 255
-chr.to.int$ -- 37
-cite$ -- 49
-duplicate$ -- 1183
-empty$ -- 1186
-format.name$ -- 322
-if$ -- 3245
+            707 strings with 7965 characters,
+and the built_in function-call counts, 10548 in all, are:
+= -- 823
+> -- 397
+< -- 14
++ -- 153
+- -- 129
+* -- 1192
+:= -- 1696
+add.period$ -- 22
+call.type$ -- 22
+change.case$ -- 147
+chr.to.int$ -- 22
+cite$ -- 34
+duplicate$ -- 692
+empty$ -- 707
+format.name$ -- 180
+if$ -- 1881
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 253
-newline$ -- 165
-num.names$ -- 148
-pop$ -- 310
+missing$ -- 150
+newline$ -- 96
+num.names$ -- 84
+pop$ -- 186
 preamble$ -- 1
-purify$ -- 260
+purify$ -- 152
 quote$ -- 0
-skip$ -- 386
+skip$ -- 224
 stack$ -- 0
-substring$ -- 792
-swap$ -- 906
-text.length$ -- 1
+substring$ -- 471
+swap$ -- 525
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 321
-warning$ -- 12
-while$ -- 141
+type$ -- 189
+warning$ -- 10
+while$ -- 82
 width$ -- 0
-write$ -- 451
+write$ -- 265
 (There were 2 error messages)
