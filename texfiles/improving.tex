@@ -1,16 +1,29 @@
 \section{Improving Load, Performance and Stress Evolutionary Testing using a Hybrid Metaheuristic Approach}
 
-A  Load, Performance or Stress tests uses set of workloads that consists of many types of usage scenarios and different user numbers combinations. A load is typically based on an operational profile. For example, the load of an e-commerce website would contain information such as the browsing or purchasing  min/average/max rate.
+A  Load, Performance or Stress tests uses set of workloads that consists of many types of usage scenarios and different user numbers combinations. A load is typically based on an operational profile. For example,  The Fig. \ref{fig:example} shows an example  of a system under test with three pages (Main Page, Profile Page and Search Page) and six possible users. From the combinations of users and application pages various scenarios can be created as the scenarios 1 and 2 presented in the figure. The first scenario presents a test that has passed and the second scenario a test that had an http error 404.
+
+\begin{figure}[ht]
+\centering
+\caption{Possible test scenarios for a hypothetical application}
+\includegraphics[width=0.4\textwidth]{./images/diagram.png}
+\label{fig:example}
+\end{figure}
+
+
+A performance test usually lasts for several hours or even a few days and only tests a limited number of workloads. The major challenge is to find the workloads  that exposes a major number of errors and discover the maximum number of users supported by a application under test \cite{Barna2011}. 
+
+
+The main objective of the research is to find in a given search space as many users that supports an application under test for a given maximum response time.
+
+
 
 \begin{figure}[ht]
 \centering
 \caption{Best results obtained in 27 generations}
-\includegraphics[width=0.4\textwidth]{./images/example.png}
-\label{fig:exp1bestresults}
+\includegraphics[width=0.5\textwidth]{./images/solution.png}
+\label{fig:example}
 \end{figure}
 
-
-A performance test usually lasts for several hours or even a few days and only tests a limited number of workloads. The major challenge is to find the workloads that exposes a major number of errors in the application under test \cite{Barna2011}.
 
 The proposed solution makes it possible to create a generative model that evolves during the test. The proposed solution model uses Genetic Algorithm, Tabu Search and Simulated Annealing in two different approaches.  The first approach uses the three algorithms independently and the second approach uses the three algorithms collaboratively (Hybrid Metaheuristic approach).
 
