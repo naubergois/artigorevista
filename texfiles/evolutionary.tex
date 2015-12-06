@@ -22,7 +22,23 @@ Distribution of the researches over range of applied metaheuristics}
 \label{fig:comparison}
 \end{figure}
 
-
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[h]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{p{1.2cm}|p{1.8cm}|p{1.8cm}|p{1.8cm}|}
+\cline{2-4}
+                                                                & \multicolumn{2}{c|}{\textbf{Prototypes}}            & \textbf{Functional Tool} \\ \cline{2-4} 
+                                                                & \begin{minipage}{0.2\textwidth}\footnotesize Execution Time  \end{minipage}          & \begin{minipage}{0.2\textwidth}\footnotesize Processor Cycles \end{minipage}        & \begin{minipage}{0.2\textwidth}\footnotesize Execution Time \end{minipage}           \\ \cline{2-4} 
+\begin{tabular}[c]{@{}l@{}}\begin{minipage}{0.1\textwidth}\scriptsize Hybrid\\ Metaheuristic\end{minipage}\end{tabular}  & \cellcolor[HTML]{FFCCC9} & \cellcolor[HTML]{FFCCC9} & \cellcolor[HTML]{F8FF00} \begin{minipage}{0.2\textwidth} GOIS, 2015 \end{minipage}  \\ \cline{2-4} 
+GA                                                              & \cellcolor[HTML]{CD9934} \begin{minipage}{0.12\textwidth}\scriptsize Alander,1998 \cite{Alander} \\ Wegener, 1996 and 1997 \cite{Wegener1997}\cite{J.WegenerK.GrimmM.GrochtmannH.Sthamer1996}\end{minipage} & \cellcolor[HTML]{CD9934} & \cellcolor[HTML]{CD9934} \\ \cline{2-4} 
+SA                                                              & \cellcolor[HTML]{FFCCC9} & \cellcolor[HTML]{FFCCC9} & \cellcolor[HTML]{CD9934} \\ \cline{2-4} 
+\begin{tabular}[c]{@{}l@{}}\begin{minipage}{0.1\textwidth}\scriptsize Customized \\ Algorithm \end{minipage}\end{tabular} & \cellcolor[HTML]{FFCCC9} & \cellcolor[HTML]{CD9934} & \cellcolor[HTML]{FFCCC9} \\ \cline{2-4} 
+\end{tabular}
+\end{table}
 
 
 \nocite{Alander,Sullivan,Wegener1997,Briand2005,Canfora,Wegener1998,Mueller1998,Puschner1998,Wegener1999,Gro,Gross2003,Tlili1917}

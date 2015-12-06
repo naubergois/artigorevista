@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 DEC 2015 10:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  6 DEC 2015 09:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1225,6 +1225,54 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 19--21
  [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\OT1/txr/bx/n/10 Functional
+ []
+
+
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 36--36
+[]|[]| 
+ []
+
+
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 36--36
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 39--39
+[]|[]| 
+ []
+
+
+Overfull \hbox (15.38832pt too wide) in paragraph at lines 32--41
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 ) (./texfiles/improving.tex
 Underfull \vbox (badness 2990) has occurred while \output is active []
 
@@ -1265,6 +1313,9 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 40--41
 [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <./images/collaborative.png, id=32, 654.445pt x 302.12875pt>
 File: ./images/collaborative.png Graphic file (type png)
 
@@ -1276,8 +1327,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 45--46
 [][] 
  []
 
-[5 <./images/solution.png> <./images/independ.png> <./images/collaborative.png>
-] <./images/genomerepresentation.png, id=40, 582.14339pt x 540.98174pt>
+<./images/genomerepresentation.png, id=33, 582.14339pt x 540.98174pt>
 File: ./images/genomerepresentation.png Graphic file (type png)
 
 <use ./images/genomerepresentation.png>
@@ -1290,11 +1340,14 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 57--58
  []
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 1221) in paragraph at lines 62--63
 \OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
  []
 
-<./images/TabuNE.png, id=41, 582.14339pt x 438.5518pt>
+<./images/TabuNE.png, id=34, 582.14339pt x 438.5518pt>
 File: ./images/TabuNE.png Graphic file (type png)
 
 <use ./images/TabuNE.png>
@@ -1314,6 +1367,9 @@ Underfull \hbox (badness 1205) in paragraph at lines 66--66
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/solution.png>]
 Underfull \hbox (badness 1122) in paragraph at lines 84--85
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
  []
@@ -1333,8 +1389,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
  []
 
-) (./texfiles/iadapter.tex [6 <./images/genomerepresentation.png> <./images/Tab
-uNE.png>] <./images/tela1iadapter.png, id=47, 997.7275pt x 674.52pt>
+) (./texfiles/iadapter.tex [6 <./images/independ.png> <./images/collaborative.p
+ng> <./images/genomerepresentation.png>]
+<./images/tela1iadapter.png, id=46, 997.7275pt x 674.52pt>
 File: ./images/tela1iadapter.png Graphic file (type png)
 
 <use ./images/tela1iadapter.png>
@@ -1345,14 +1402,14 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-) (./texfiles/experiments.tex
-Underfull \vbox (badness 1975) has occurred while \output is active []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
+) (./texfiles/experiments.tex [7 <./images/TabuNE.png> <./images/tela1iadapter.
+png>] (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
-) [7 <./images/tela1iadapter.png>]
-<./images/generationcomparative.png, id=56, 953.54669pt x 505.79515pt>
+)
+<./images/generationcomparative.png, id=55, 953.54669pt x 505.79515pt>
 File: ./images/generationcomparative.png Graphic file (type png)
 
 <use ./images/generationcomparative.png>
@@ -1368,9 +1425,9 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 64--66
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \vbox (badness 1331) has occurred while \output is active []
 
-[8 <./images/generationcomparative.png>]
+ [8 <./images/generationcomparative.png>]
 Overfull \hbox (2.63954pt too wide) in paragraph at lines 159--159
 []|\OT1/txr/m/n/10 Id| 
  []
@@ -1395,6 +1452,9 @@ Overfull \hbox (21.54588pt too wide) in paragraph at lines 157--175
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <./images/gened.png, id=61, 780.83847pt x 1074.94511pt>
 File: ./images/gened.png Graphic file (type png)
 
@@ -1410,30 +1470,30 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 183--185
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./texfiles/conclusion.tex)
-(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9 <./images/gened.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9]
+Underfull \vbox (badness 6094) has occurred while \output is active []
 
-) [10]
-(/Users/naubergois/artigorevista/.texpadtmp/main.aux) ) 
+) [10 <./images/gened.png>] (/Users/naubergois/artigorevista/.texpadtmp/main.au
+x) ) 
 Here is how much of TeX's memory you used:
- 13694 strings out of 493488
- 215938 string characters out of 3141326
- 727761 words of memory out of 3000000
- 16651 multiletter control sequences out of 15000+200000
+ 13698 strings out of 493488
+ 216095 string characters out of 3141326
+ 732761 words of memory out of 3000000
+ 16655 multiletter control sequences out of 15000+200000
  38242 words of font info for 94 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 53i,12n,97p,869b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012
-/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2012/texmf-dist/fonts
-/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
-/public/txfonts/rtxr.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
-/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utm
-b8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local
-/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+ 53i,20n,97p,869b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2012/t
+exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-di
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/u
+zdr.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35808736 bytes).
+, 35809952 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
