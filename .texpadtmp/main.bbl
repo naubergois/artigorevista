@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{37}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
@@ -189,6 +189,29 @@
   execution-time analysis}},
 \newblock \bibinfo{journal}{Proceedings 19th IEEE Real-Time Systems Symposium
   (Cat. No.98CB36279)}  (\bibinfo{year}{1998}).
+%Type = Article
+\bibitem[{{Wegener, Joachim and Pitschinetz, Roman and
+  Sthamer}(2000)}]{Stations}
+\bibinfo{author}{H.~{Wegener, Joachim and Pitschinetz, Roman and Sthamer}},
+\newblock \bibinfo{title}{{Automated Testing of Real-Time Tasks}},
+\newblock \bibinfo{journal}{Proceedings of the 1st International Workshop on
+  Automated Program Analysis, Testing and Verification (WAPATV'00)}
+  (\bibinfo{year}{2000}).
+%Type = Article
+\bibitem[{Gross et~al.(2000)Gross, Jones, and Eyres}]{Gross2000}
+\bibinfo{author}{H.~Gross}, \bibinfo{author}{B.~F. Jones},
+  \bibinfo{author}{D.~E. Eyres},
+\newblock \bibinfo{title}{{Structural performance measure of evolutionary
+  testing applied to worst-case timing of real-time systems}},
+\newblock \bibinfo{journal}{Software, IEE Proceedings-} \bibinfo{volume}{147}
+  (\bibinfo{year}{2000}) \bibinfo{pages}{25--30}.
+%Type = Inproceedings
+\bibitem[{Penta et~al.(2007)Penta, Canfora, and Esposito}]{Penta2007}
+\bibinfo{author}{M.~D. Penta}, \bibinfo{author}{G.~Canfora},
+  \bibinfo{author}{G.~Esposito},
+\newblock \bibinfo{title}{{Search-based testing of service level agreements}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 9th annual conference on
+  Genetic and evolutionary computation}, pp. \bibinfo{pages}{1090--1097}.
 %Type = Article
 \bibitem[{Wegener et~al.(1999)Wegener, Sthamer, and Pohlheim}]{Wegener1999}
 \bibinfo{author}{J.~Wegener}, \bibinfo{author}{H.~Sthamer},

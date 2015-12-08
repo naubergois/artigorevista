@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  8 DEC 2015 03:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  8 DEC 2015 07:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1261,6 +1261,11 @@ Overfull \hbox (42.38353pt too wide) in paragraph at lines 36--36
  []
 
 
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 37--37
+[]|$[]$| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
  []
@@ -1271,8 +1276,18 @@ Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
  []
 
 
-Package natbib Warning: Citation `Stations' on page 4 undefined on input line 3
-7.
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
+[]|$[]$| 
+ []
+
+
+Package natbib Warning: Citation `Garousi2006a' on page 4 undefined on input li
+ne 37.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 37--37
@@ -1372,7 +1387,8 @@ Underfull \hbox (badness 1221) in paragraph at lines 62--63
 \OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
  []
 
-<./images/TabuNE.png, id=34, 582.14339pt x 438.5518pt>
+[5 <./images/diagram.png> <./images/solution.png>]
+<./images/TabuNE.png, id=39, 582.14339pt x 438.5518pt>
 File: ./images/TabuNE.png Graphic file (type png)
 
 <use ./images/TabuNE.png>
@@ -1391,7 +1407,7 @@ Underfull \hbox (badness 1205) in paragraph at lines 66--66
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./images/diagram.png> <./images/solution.png>]
+
 Underfull \hbox (badness 1122) in paragraph at lines 84--85
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
  []
@@ -1502,13 +1518,13 @@ Package natbib Warning: There were undefined citations.
 [10 <./images/gened.png>] (/Users/naubergois/artigorevista/.texpadtmp/main.aux)
  ) 
 Here is how much of TeX's memory you used:
- 13706 strings out of 493488
- 216168 string characters out of 3141326
+ 13715 strings out of 493488
+ 216322 string characters out of 3141326
  732761 words of memory out of 3000000
- 16659 multiletter control sequences out of 15000+200000
+ 16668 multiletter control sequences out of 15000+200000
  42698 words of font info for 101 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 53i,20n,97p,869b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,20n,97p,1069b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2
@@ -1519,7 +1535,7 @@ e1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzd
 r.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35810967 bytes).
+, 35811416 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
