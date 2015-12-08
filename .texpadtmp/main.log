@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  6 DEC 2015 09:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  8 DEC 2015 03:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1251,8 +1251,57 @@ Overfull \hbox (12.65964pt too wide) in paragraph at lines 36--36
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+
+ []
+
+
 Overfull \hbox (42.38353pt too wide) in paragraph at lines 36--36
 []|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/txr/m/n/7 Wegener et al.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/txr/m/n/7 1996 and 1997
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
+[]|$[]$| 
+ []
+
+
+Package natbib Warning: Citation `Stations' on page 4 undefined on input line 3
+7.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/txr/m/n/7 Wegener and
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 37--37
+\OT1/txr/m/n/7 Grocht-mann, 1998
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/txr/m/n/7 Wegener et al.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
  []
 
 
@@ -1283,15 +1332,15 @@ File: ./images/diagram.png Graphic file (type png)
 <use ./images/diagram.png>
 Package pdftex.def Info: ./images/diagram.png used on input line 8.
 (pdftex.def)             Requested size: 187.19714pt x 250.21907pt.
- [4 <./images/comparativo1.png> <./images/diagram.png>]
 LaTeX Font Info:    Try loading font information for OMS+txr on input line 19.
- (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 19.
 
-<./images/solution.png, id=30, 495.8367pt x 850.16835pt>
+<./images/solution.png, id=25, 495.8367pt x 850.16835pt>
 File: ./images/solution.png Graphic file (type png)
 
 <use ./images/solution.png>
@@ -1302,6 +1351,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 28--30
  [][] 
  []
 
+[4 <./images/comparativo1.png>]
 <./images/independ.png, id=31, 354.23682pt x 268.49918pt>
 File: ./images/independ.png Graphic file (type png)
 
@@ -1344,159 +1394,4 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \hbox (badness 1221) in paragraph at lines 62--63
-\OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
- []
-
-<./images/TabuNE.png, id=34, 582.14339pt x 438.5518pt>
-File: ./images/TabuNE.png Graphic file (type png)
-
-<use ./images/TabuNE.png>
-Package pdftex.def Info: ./images/TabuNE.png used on input line 65.
-(pdftex.def)             Requested size: 234.0pt x 176.28084pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 65--66
-[][] 
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 66--66
-[]\OT1/txr/m/n/10 Figure 10: |Tabu Search and Sim-u-lated An-neal-ing
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 <./images/solution.png>]
-Underfull \hbox (badness 1122) in paragraph at lines 84--85
-[]\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 96--97
-[]\OT1/txr/m/n/10 The pro-posed so-lu-tion's fit-nesse func-tion uses a
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 96--97
-\OT1/txr/m/n/10 se-ries of adapt-able user-defined weights ( 90per-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-\OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
- []
-
-) (./texfiles/iadapter.tex [6 <./images/independ.png> <./images/collaborative.p
-ng> <./images/genomerepresentation.png>]
-<./images/tela1iadapter.png, id=46, 997.7275pt x 674.52pt>
-File: ./images/tela1iadapter.png Graphic file (type png)
-
-<use ./images/tela1iadapter.png>
-Package pdftex.def Info: ./images/tela1iadapter.png used on input line 11.
-(pdftex.def)             Requested size: 234.0pt x 158.19316pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
-[][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./texfiles/experiments.tex [7 <./images/TabuNE.png> <./images/tela1iadapter.
-png>] (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
-)
-<./images/generationcomparative.png, id=55, 953.54669pt x 505.79515pt>
-File: ./images/generationcomparative.png Graphic file (type png)
-
-<use ./images/generationcomparative.png>
-Package pdftex.def Info: ./images/generationcomparative.png used on input line 
-64.
-(pdftex.def)             Requested size: 234.0pt x 124.11769pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 64--66
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 1331) has occurred while \output is active []
-
- [8 <./images/generationcomparative.png>]
-Overfull \hbox (2.63954pt too wide) in paragraph at lines 159--159
-[]|\OT1/txr/m/n/10 Id| 
- []
-
-
-Overfull \hbox (5.69818pt too wide) in paragraph at lines 159--159
-[]|\OT1/txr/m/n/10 90per| 
- []
-
-
-Overfull \hbox (5.69818pt too wide) in paragraph at lines 159--159
-[]|\OT1/txr/m/n/10 80per| 
- []
-
-
-Overfull \hbox (5.69818pt too wide) in paragraph at lines 159--159
-[]|\OT1/txr/m/n/10 70per| 
- []
-
-
-Overfull \hbox (21.54588pt too wide) in paragraph at lines 157--175
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/gened.png, id=61, 780.83847pt x 1074.94511pt>
-File: ./images/gened.png Graphic file (type png)
-
-<use ./images/gened.png>
-Package pdftex.def Info: ./images/gened.png used on input line 183.
-(pdftex.def)             Requested size: 234.0pt x 322.12517pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 183--185
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./texfiles/conclusion.tex)
-(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9]
-Underfull \vbox (badness 6094) has occurred while \output is active []
-
-) [10 <./images/gened.png>] (/Users/naubergois/artigorevista/.texpadtmp/main.au
-x) ) 
-Here is how much of TeX's memory you used:
- 13698 strings out of 493488
- 216095 string characters out of 3141326
- 732761 words of memory out of 3000000
- 16655 multiletter control sequences out of 15000+200000
- 38242 words of font info for 94 fonts, out of 3000000 for 9000
- 957 hyphenation exceptions out of 8191
- 53i,20n,97p,869b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
-/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2012/t
-exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-di
-st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
-ype1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/u
-zdr.pfb>
-Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35809952 bytes).
-PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+\OT1/txr/m/n/10 Search and 
