@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{40}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
@@ -126,11 +126,12 @@
 \bibinfo{author}{N.~J. Tracey}, \bibinfo{title}{A search-based automated
   test-data generation framework for safety-critical software}, Ph.D. thesis,
   Citeseer, \bibinfo{year}{2000}.
-%Type = Book
+%Type = Article
 \bibitem[{Garousi(2006)}]{Garousi2006}
-\bibinfo{author}{V.~Garousi}, \bibinfo{title}{{Traffic-aware Stress Testing of
-  Distributed Real-Time Systems based on UML Models using Genetic Algorithms}},
-  \bibinfo{number}{August}, \bibinfo{year}{2006}.
+\bibinfo{author}{V.~Garousi},
+\newblock \bibinfo{title}{{Traffic-aware Stress Testing of Distributed
+  Real-Time Systems based on UML Models using Genetic Algorithms}}
+  (\bibinfo{year}{2006}).
 %Type = Inproceedings
 \bibitem[{Alander et~al.(1998)Alander, Mantere, and Turunen}]{Alander}
 \bibinfo{author}{J.~T.~J. Alander}, \bibinfo{author}{T.~Mantere},
@@ -212,6 +213,28 @@
 \newblock \bibinfo{title}{{Search-based testing of service level agreements}},
 \newblock in: \bibinfo{booktitle}{Proceedings of the 9th annual conference on
   Genetic and evolutionary computation}, pp. \bibinfo{pages}{1090--1097}.
+%Type = Article
+\bibitem[{Garousi(2008)}]{Garousi2008}
+\bibinfo{author}{V.~Garousi},
+\newblock \bibinfo{title}{{Empirical analysis of a genetic algorithm-based
+  stress test technique}},
+\newblock \bibinfo{journal}{Proceedings of the 10th annual conference on
+  Genetic and evolutionary computation - GECCO '08}  (\bibinfo{year}{2008})
+  \bibinfo{pages}{1743}.
+%Type = Article
+\bibitem[{Tracey et~al.(1998)Tracey, Clark, and Mander}]{Tracey1998}
+\bibinfo{author}{N.~J. Tracey}, \bibinfo{author}{J.~a. Clark},
+  \bibinfo{author}{K.~C. Mander},
+\newblock \bibinfo{title}{{Automated Programme Flaw Finding using Simulated
+  Annealing}}  (\bibinfo{year}{1998}).
+%Type = Article
+\bibitem[{Pohlheim et~al.(2005)Pohlheim, Conrad, and Griep}]{Pohlheim2005}
+\bibinfo{author}{H.~Pohlheim}, \bibinfo{author}{M.~Conrad},
+  \bibinfo{author}{A.~Griep},
+\newblock \bibinfo{title}{{Evolutionary Safety Testing of Embedded Control
+  Software by Automatically Generating Compact Test Data Sequences}},
+\newblock \bibinfo{journal}{Analysis}  (\bibinfo{year}{2005})
+  \bibinfo{pages}{804----814}.
 %Type = Article
 \bibitem[{Wegener et~al.(1999)Wegener, Sthamer, and Pohlheim}]{Wegener1999}
 \bibinfo{author}{J.~Wegener}, \bibinfo{author}{H.~Sthamer},

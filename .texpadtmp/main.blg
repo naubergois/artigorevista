@@ -3,7 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: ../model1-num-names.bst
 Database file #1: ../sample.bib
-Warning--I didn't find a database entry for "Garousi2006a"
 Warning--to sort, need author or key in Afzal2009
 Warning--missing school in Jiang2010
 Warning--empty pages in Draheim2006b
@@ -13,50 +12,52 @@ Warning--empty year in Sullivan; set to ????
 Warning--empty journal in Sandler2004
 Warning--empty journal in Goncalves2014
 Warning--empty author in Afzal2009
+Warning--empty journal in Garousi2006
 Warning--empty pages in Alander
 Warning--empty journal in Canfora
 Warning--empty year in Canfora; set to ????
+Warning--empty journal in Tracey1998
 Warning--empty journal in Gro
 Warning--empty journal in Nevedrov2007
-You've used 37 entries,
+You've used 40 entries,
             2616 wiz_defined-function locations,
-            797 strings with 10979 characters,
-and the built_in function-call counts, 18378 in all, are:
-= -- 1452
-> -- 726
-< -- 22
-+ -- 278
-- -- 237
-* -- 2091
-:= -- 2952
-add.period$ -- 37
-call.type$ -- 37
-change.case$ -- 258
-chr.to.int$ -- 37
-cite$ -- 53
-duplicate$ -- 1195
-empty$ -- 1196
-format.name$ -- 331
-if$ -- 3290
+            812 strings with 11481 characters,
+and the built_in function-call counts, 19945 in all, are:
+= -- 1586
+> -- 790
+< -- 23
++ -- 302
+- -- 258
+* -- 2278
+:= -- 3210
+add.period$ -- 40
+call.type$ -- 40
+change.case$ -- 281
+chr.to.int$ -- 40
+cite$ -- 58
+duplicate$ -- 1292
+empty$ -- 1287
+format.name$ -- 359
+if$ -- 3565
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 254
-newline$ -- 167
-num.names$ -- 144
-pop$ -- 319
+missing$ -- 273
+newline$ -- 182
+num.names$ -- 156
+pop$ -- 343
 preamble$ -- 1
-purify$ -- 262
+purify$ -- 284
 quote$ -- 0
-skip$ -- 386
+skip$ -- 411
 stack$ -- 0
-substring$ -- 804
-swap$ -- 917
+substring$ -- 881
+swap$ -- 992
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 324
-warning$ -- 14
-while$ -- 139
+type$ -- 354
+warning$ -- 16
+while$ -- 151
 width$ -- 0
-write$ -- 452
-(There were 15 warnings)
+write$ -- 489
+(There were 16 warnings)
