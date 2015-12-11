@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{38}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
@@ -116,6 +116,12 @@
   Bioinformatics)} \bibinfo{volume}{7505 LNCS} (\bibinfo{year}{2012})
   \bibinfo{pages}{1--10}.
 %Type = Article
+\bibitem[{Raidl(2006)}]{Raidl2006}
+\bibinfo{author}{R.~Raidl},
+\newblock \bibinfo{title}{{A Unified View on Hybrid Metaheuristics}},
+\newblock \bibinfo{journal}{Hybrid Metaheuristics (LNCS 4030)}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{1--12}.
+%Type = Article
 \bibitem[{Afz(2009)}]{Afzal2009}
 \bibinfo{title}{{A systematic review of search-based testing for non-functional
   system properties}},
@@ -132,6 +138,14 @@
 \newblock \bibinfo{title}{{Traffic-aware Stress Testing of Distributed
   Real-Time Systems based on UML Models using Genetic Algorithms}}
   (\bibinfo{year}{2006}).
+%Type = Article
+\bibitem[{Alesio et~al.(2015)Alesio, Briand, Nejati, and Gotlieb}]{Alesio2015}
+\bibinfo{author}{S.~D.~I. Alesio}, \bibinfo{author}{L.~C. Briand},
+  \bibinfo{author}{S.~Nejati}, \bibinfo{author}{A.~Gotlieb},
+\newblock \bibinfo{title}{{Combining Genetic Algorithms and Constraint
+  Programming}},
+\newblock \bibinfo{journal}{ACM Transactions on Software Engineering and
+  Methodology} \bibinfo{volume}{25} (\bibinfo{year}{2015}).
 %Type = Inproceedings
 \bibitem[{Alander et~al.(1998)Alander, Mantere, and Turunen}]{Alander}
 \bibinfo{author}{J.~T.~J. Alander}, \bibinfo{author}{T.~Mantere},
@@ -235,31 +249,6 @@
   Software by Automatically Generating Compact Test Data Sequences}},
 \newblock \bibinfo{journal}{Analysis}  (\bibinfo{year}{2005})
   \bibinfo{pages}{804----814}.
-%Type = Article
-\bibitem[{Wegener et~al.(1999)Wegener, Sthamer, and Pohlheim}]{Wegener1999}
-\bibinfo{author}{J.~Wegener}, \bibinfo{author}{H.~Sthamer},
-  \bibinfo{author}{H.~Pohlheim},
-\newblock \bibinfo{title}{{Testing the temporal behavior of real-time tasks
-  using extended evolutionary algorithms}},
-\newblock \bibinfo{journal}{Proceedings 20th IEEE Real-Time Systems Symposium
-  (Cat. No.99CB37054)}  (\bibinfo{year}{1999}).
-%Type = Article
-\bibitem[{Gro(2001)}]{Gro}
-\bibinfo{author}{H.-G. Gro},
-\newblock \bibinfo{title}{A prediction system for dynamic optimisation-based
-  execution time analysis}  (\bibinfo{year}{2001}).
-%Type = Misc
-\bibitem[{Gross(2003)}]{Gross2003}
-\bibinfo{author}{H.~Gross}, \bibinfo{title}{{An evaluation of dynamic,
-  optimisation-based worst-case execution time analysis}},
-  \bibinfo{year}{2003}.
-%Type = Article
-\bibitem[{Tlili et~al.(1917)Tlili, Wappler, and Sthamer}]{Tlili1917}
-\bibinfo{author}{M.~Tlili}, \bibinfo{author}{S.~Wappler},
-  \bibinfo{author}{H.~Sthamer},
-\newblock \bibinfo{title}{{Improving Evolutionary Real-Time Testing}},
-\newblock \bibinfo{journal}{Technology}  (\bibinfo{year}{1917})
-  \bibinfo{pages}{1917--1924}.
 %Type = Article
 \bibitem[{Barna et~al.(2011)Barna, Litoiu, and Ghanbari}]{Barna2011}
 \bibinfo{author}{C.~Barna}, \bibinfo{author}{M.~Litoiu},

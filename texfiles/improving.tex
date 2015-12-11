@@ -13,7 +13,7 @@ A  Load, Performance or Stress tests uses set of workloads that consists of many
 A performance test usually lasts for several hours or even a few days and only tests a limited number of workloads. The major challenge is to find the workloads  that exposes a major number of errors and discover the maximum number of users supported by a application under test \cite{Barna2011}. 
 
 
-The main objective of the research is to find in a given search space how many users  are supported by an application under test for a given maximum response time. The Fig. \ref{fig:solution} presents a example where the presented solution finds the Test Scenarios that expose errors or response times above the maximum response time expected. There are many benefits in the use of solution:
+The main objective of the research is to find test scenarios that maximize the likelihood of task deadline misses. The Fig. \ref{fig:solution} presents a example where the presented solution finds the Test Scenarios that expose errors or response times above the maximum response time expected. There are many benefits in the use of solution:
 
 \begin{itemize}
 \item Automate the search for failure points of a application under test;
@@ -25,7 +25,7 @@ The main objective of the research is to find in a given search space how many u
 \begin{figure}[ht]
 \centering
 \caption{Best results obtained in 27 generations}
-\includegraphics[width=0.5\textwidth]{./images/solution.png}
+\includegraphics[width=0.35\textwidth]{./images/solution.png}
 \label{fig:solution}
 \end{figure}
 

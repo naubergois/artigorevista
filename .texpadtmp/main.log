@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  9 DEC 2015 01:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 DEC 2015 02:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -990,6 +990,27 @@ Package: xparse 2012/04/23 v3570 L3 Experimental document command parser
 (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\lightrulewidth=\dimen256
+\cmidrulewidth=\dimen257
+\belowrulesep=\dimen258
+\belowbottomsep=\dimen259
+\aboverulesep=\dimen260
+\abovetopsep=\dimen261
+\cmidrulesep=\dimen262
+\cmidrulekern=\dimen263
+\defaultaddspace=\dimen264
+\@cmidla=\count295
+\@cmidlb=\count296
+\@aboverulesep=\dimen265
+\@belowrulesep=\dimen266
+\@thisruleclass=\count297
+\@lastruleclass=\count298
+\@thisrulewidth=\dimen267
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 \everycr=\toks29
@@ -998,59 +1019,60 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 (/Users/naubergois/artigorevista/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 99.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 99.
-
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 101.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 101
+.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 99.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 99.
-
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 101.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 101
+.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 99.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 99.
-
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 101.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 101
+.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 99.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 99.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 101.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 101.
+
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 99.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 101.
+
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count295
-\scratchdimen=\dimen201
+\scratchcounter=\count299
+\scratchdimen=\dimen268
 \scratchbox=\box72
-\nofMPsegments=\count296
-\nofMParguments=\count297
+\nofMPsegments=\count300
+\nofMParguments=\count301
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count298
-Normal \dimen register pool exhausted, switching to extended pool.
-\MPscratchDim=\dimen256
-\MPnumerator=\count299
-\makeMPintoPDFobject=\count300
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen269
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -1132,27 +1154,27 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count301
+\c@lstlisting=\count305
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (./texfiles/abstract.tex)
-LaTeX Font Info:    Try loading font information for U+txmia on input line 154.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 156.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 154.
+LaTeX Font Info:    Try loading font information for U+msa on input line 156.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 154.
+LaTeX Font Info:    Try loading font information for U+msb on input line 156.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 154.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 156.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/utxsyc.fd
@@ -1171,9 +1193,6 @@ Underfull \hbox (badness 1430) in paragraph at lines 10--11
  []
 
 ) (./texfiles/workload.tex
-Underfull \vbox (badness 1137) has occurred while \output is active []
-
-
 <./images/workloadmodel1.png, id=10, 477.785pt x 432.60835pt>
 File: ./images/workloadmodel1.png Graphic file (type png)
 
@@ -1215,82 +1234,22 @@ Underfull \hbox (badness 1466) in paragraph at lines 1--1
 
 [3 <./images/workloadmodel1.png> <./images/workloadmodel2.png> <./images/metahe
 uristc2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []|\OT1/txr/bx/n/10 Functional
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
 []|$[]$| 
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
 []|$[]$| 
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 35--35
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 36--36
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-
- []
-
-
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 36--36
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 37--37
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 37--37
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 38--38
-[]|$[]$| 
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 38--38
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
 []|$[]$| 
  []
 
@@ -1300,26 +1259,95 @@ Overfull \hbox (12.65964pt too wide) in paragraph at lines 39--39
  []
 
 
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 39--39
 []|$[]$| 
  []
 
 
-Overfull \hbox (15.38832pt too wide) in paragraph at lines 32--41
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 40--40
+[]|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
+[]|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
+[]|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 41--41
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 41--41
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 44--45
+[]|[]| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 45--45
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 46--46
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 46--46
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (15.38832pt too wide) in paragraph at lines 35--48
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 ) (./texfiles/improving.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 <./images/diagram.png, id=23, 617.23512pt x 825.03508pt>
 File: ./images/diagram.png Graphic file (type png)
 
 <use ./images/diagram.png>
 Package pdftex.def Info: ./images/diagram.png used on input line 8.
 (pdftex.def)             Requested size: 187.19714pt x 250.21907pt.
- [4 <./images/diagram.png>]
 LaTeX Font Info:    Try loading font information for OMS+txr on input line 19.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
@@ -1328,18 +1356,14 @@ File: omstxr.fd 2000/12/15 v3.1
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 19.
 
-<./images/solution.png, id=28, 495.8367pt x 850.16835pt>
+<./images/solution.png, id=24, 473.73839pt x 1148.25839pt>
 File: ./images/solution.png Graphic file (type png)
 
 <use ./images/solution.png>
 Package pdftex.def Info: ./images/solution.png used on input line 28.
-(pdftex.def)             Requested size: 234.0pt x 401.21371pt.
+(pdftex.def)             Requested size: 163.80286pt x 397.02562pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 28--30
- [][] 
- []
-
-<./images/independ.png, id=29, 354.23682pt x 268.49918pt>
+<./images/independ.png, id=25, 354.23682pt x 268.49918pt>
 File: ./images/independ.png Graphic file (type png)
 
 <use ./images/independ.png>
@@ -1350,7 +1374,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 40--41
 [][] 
  []
 
-<./images/collaborative.png, id=30, 654.445pt x 302.12875pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/collaborative.png, id=26, 654.445pt x 302.12875pt>
 File: ./images/collaborative.png Graphic file (type png)
 
 <use ./images/collaborative.png>
@@ -1361,8 +1388,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 45--46
 [][] 
  []
 
-[5 <./images/solution.png> <./images/independ.png> <./images/collaborative.png>
-] <./images/genomerepresentation.png, id=38, 582.14339pt x 540.98174pt>
+[4] <./images/genomerepresentation.png, id=31, 582.14339pt x 540.98174pt>
 File: ./images/genomerepresentation.png Graphic file (type png)
 
 <use ./images/genomerepresentation.png>
@@ -1375,11 +1401,14 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 57--58
  []
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 1221) in paragraph at lines 62--63
 \OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
  []
 
-<./images/TabuNE.png, id=39, 582.14339pt x 438.5518pt>
+<./images/TabuNE.png, id=32, 582.14339pt x 438.5518pt>
 File: ./images/TabuNE.png Graphic file (type png)
 
 <use ./images/TabuNE.png>
@@ -1398,7 +1427,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 84--85
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
  []
 
-
+[5 <./images/diagram.png> <./images/solution.png>]
 Underfull \hbox (badness 1248) in paragraph at lines 96--97
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion's fit-nesse func-tion uses a
  []
@@ -1413,8 +1442,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
  []
 
-) (./texfiles/iadapter.tex [6 <./images/genomerepresentation.png> <./images/Tab
-uNE.png>] <./images/tela1iadapter.png, id=45, 997.7275pt x 674.52pt>
+) (./texfiles/iadapter.tex [6 <./images/independ.png> <./images/collaborative.p
+ng> <./images/genomerepresentation.png>]
+<./images/tela1iadapter.png, id=44, 997.7275pt x 674.52pt>
 File: ./images/tela1iadapter.png Graphic file (type png)
 
 <use ./images/tela1iadapter.png>
@@ -1425,14 +1455,14 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-) (./texfiles/experiments.tex
-Underfull \vbox (badness 1975) has occurred while \output is active []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
+) (./texfiles/experiments.tex [7 <./images/TabuNE.png> <./images/tela1iadapter.
+png>] (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
-) [7 <./images/tela1iadapter.png>]
-<./images/generationcomparative.png, id=54, 953.54669pt x 505.79515pt>
+)
+<./images/generationcomparative.png, id=53, 953.54669pt x 505.79515pt>
 File: ./images/generationcomparative.png Graphic file (type png)
 
 <use ./images/generationcomparative.png>
@@ -1448,9 +1478,9 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 64--66
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \vbox (badness 1331) has occurred while \output is active []
 
-[8 <./images/generationcomparative.png>]
+ [8 <./images/generationcomparative.png>]
 Overfull \hbox (2.63954pt too wide) in paragraph at lines 159--159
 []|\OT1/txr/m/n/10 Id| 
  []
@@ -1475,6 +1505,9 @@ Overfull \hbox (21.54588pt too wide) in paragraph at lines 157--175
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <./images/gened.png, id=59, 780.83847pt x 1074.94511pt>
 File: ./images/gened.png Graphic file (type png)
 
@@ -1490,30 +1523,30 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 183--185
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./texfiles/conclusion.tex)
-(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9 <./images/gened.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9]
+Underfull \vbox (badness 6094) has occurred while \output is active []
 
-) [10]
-(/Users/naubergois/artigorevista/.texpadtmp/main.aux) ) 
+) [10 <./images/gened.png>] (/Users/naubergois/artigorevista/.texpadtmp/main.au
+x) ) 
 Here is how much of TeX's memory you used:
- 13713 strings out of 493488
- 216293 string characters out of 3141326
- 727761 words of memory out of 3000000
- 16669 multiletter control sequences out of 15000+200000
- 40759 words of font info for 98 fonts, out of 3000000 for 9000
+ 13757 strings out of 493488
+ 216918 string characters out of 3141326
+ 732761 words of memory out of 3000000
+ 16711 multiletter control sequences out of 15000+200000
+ 38242 words of font info for 94 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 53i,20n,97p,1139b,1295s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012
-/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2012/texmf-dist/fonts
-/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
-/public/txfonts/rtxr.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
-/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utm
-b8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local
-/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+ 53i,20n,97p,1139b,1276s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2012/t
+exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-di
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/u
+zdr.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35064610 bytes).
+, 35049150 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream

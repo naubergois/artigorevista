@@ -1,0 +1,1223 @@
+TY  - JOUR
+AB  - Whereas the verification of non-safety-related embedded software typically focuses on demonstrating that the implementation fulfills its functional requirements, this is not sufficient for safety-relevant systems. In this case, the control software must also meet application- specific safety requirements.Safety requirements typically arise from the application of hazard and/or safety analysis techniques, e.g., FMEA, FTA or SHARD. During the downstream development process it must be shown that these requirements cannot be violated. This can be achieved utilizing different techniques. One way of providing evidence that violations of the safety properties identified cannot occur is to thoroughly test each of the safety requirements.This paper introduces Evolutionary Safety Testing (EST), a fully automated procedure for the safety testing of embedded control software. EST employs extended evolutionary algorithms in an optimization process which aggressively tries to find test data sequences that cause the test object to violate a given safety requirement.A compact description formalism for input sequences for safety testing is presented, which is compatible with description techniques used during other test process stages. This compact description allows 1) an efficient application of evolutionary algorithms (and other optimization techniques) and 2) the description of long test sequences necessary for the adequate stimulation of real-world systems. The objective function is designed in such a way that optimal values represent test data sequences which violate a given safety requirement. By means of repeated input sequence generation, software execution and the subsequent evaluation of the objective function each safety requirement is extensively tested.The use of EST for the safety testing of automotive control software is demonstrated using safety requirements of an adaptive cruise control (ACC) system.The EST approach can easily be integrated into an overall software test strategy which combines different test design techniques with specific test objectives.
+AU  - Pohlheim, Hartmut
+AU  - Conrad, Mirko
+AU  - Griep, Arne
+JO  - Analysis
+IS  - 724
+SP  - 804
+EP  - ---814
+T1  - Evolutionary Safety Testing of Embedded Control Software by Automatically Generating Compact Test Data Sequences
+UR  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.6557\amp;rep=rep1\amp;type=pdf
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AB  - Software architecture design approaches typically treat architecture as an abstraction of the implemented system. However, doing so means that the concepts, languages, notations, and tools for architecture are much more closely related to those of detailed design and implementation than to those of software requirements. Thus the gap between requirements and architecture represents a paradigm shift, while that between architecture and detailed design does not. Global Analysis, which is part of the Siemens Four Views architecture design approach, is a set of activities that serves to reduce the magnitude of this gap by guiding the architecture design process, capturing design rationale, and supporting traceability between requirements and architecture. In this paper Global Analysis is re-examined in light of five years of teaching it, reflecting on it, comparing it to other approaches, and examining how it was applied in four new systems. This experience confirms the value of the Global Analysis activities and the importance of capturing its results. In some cases the benefit went beyond that envisioned, and in other cases Global Analysis was not applied as expected. Because the templates that are provided for Global Analysis results have such a strong influence on how the activities were performed, this will be the focus of future changes
+AU  - Gross, Hg
+AU  - Jones, Bryan F
+AU  - Eyres, David E
+SN  - 0818669101
+JO  - Software, IEE Proceedings-
+IS  - 2
+SP  - 25
+EP  - -30
+T1  - Structural performance measure of evolutionary testing applied to worst-case timing of real-time systems
+UR  - http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=1504554
+VL  - 147
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AU  - Smeral, Ron
+T1  - Modern Performance Tools Applied
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - In this survey we discuss different state-of-the-art approaches of combining exact algorithms and metaheuristics to solve combinatorial optimization problems. Some of these hybrids mainly aim at providing optimal solutions in shorter time, while others primarily focus on getting better heuristic solutions. The two main categories in which we divide the approaches are collaborative versus integrative combinations.We further classify the different techniques in a hierarchical way. Altogether, the surveyed work on combinations of exact algorithms and metaheuristics documents the usefulness and strong potential of this research direction.
+AU  - Puchinger, Jakob
+AU  - Raidl, R
+SN  - 9783540263197
+JO  - Artificial Intelligence and Knowledge Engineering Applications a Bioinspired Approach
+SP  - 41
+EP  - -53
+T1  - Combining Metaheuristics and Exact Algorithms in Combinatorial Optimization : A Survey and Classification
+VL  - 3562
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AB  - Research in metaheuristics for combinatorial optimization problems has lately experienced a noteworthy shift towards the hybridization of metaheuristics with other techniques for optimization. At the same time, the focus of research has changed from being rather algorithm-oriented to being more problem-oriented. Nowadays the focus is on solving the problem at hand in the best way possible, rather than promoting a certain metaheuristic. This has led to an enormously fruitful cross-fertilization of different areas of optimization. This cross-fertilization is documented by a multitude of powerful hybrid algorithms that were obtained by combining components from several different optimization techniques. Hereby, hybridization is not restricted to the combination of different metaheuristics but includes, for example, the combination of exact algorithms and metaheuristics. In this work we provide a survey of some of the most important lines of hybridization. The literature review is accompanied by the presentation of illustrative examples. © 2010 Elsevier B.V. All rights reserved.
+AU  - Blum, Christian
+SN  - 9783642338595
+JO  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+KW  - combinatorial optimization
+KW  - hybrid metaheuristics
+IS  - 6
+SP  - 1
+EP  - -10
+PB  - Elsevier B.V.
+T1  - Hybrid metaheuristics in combinatorial optimization: A tutorial
+UR  - http://dx.doi.org/10.1016/j.asoc.2011.02.032
+VL  - 7505 LNCS
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AU  - Wang, Xingen
+AU  - Zhou, Bo
+AU  - Li, Wei
+SN  - 978-1-4244-8095-1
+JO  - International Symposium on Parallel and Distributed Processing with Applications
+KW  - load model
+KW  - load testing
+KW  - markov chains
+KW  - model
+KW  - performance engineering
+KW  - usage
+SP  - 483
+EP  - -490
+T1  - Model Based Load Testing of Web Applications
+UR  - http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5634372
+PY  - 2010
+ER  - 
+
+
+TY  - BOOK
+AU  - Smith, J.~M.
+AU  - Jones, A.~B.
+PB  - Publisher
+T1  - Book Title
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AU  - Jones, A.~B.
+AU  - Smith, J.~M.
+JO  - Journal Title
+Y2  - March
+IS  - 52
+SP  - 123
+EP  - 456
+PB  - Publisher
+T1  - Article Title
+VL  - 13
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AU  - Tlili, Marouane
+AU  - Wappler, Stefan
+AU  - Sthamer, Harmen
+SN  - 1595931864
+JO  - Technology
+KW  - daimler-
+KW  - harmen
+KW  - sthamer
+SP  - 1917
+EP  - -1924
+T1  - Improving Evolutionary Real-Time Testing
+PY  - 1917
+ER  - 
+
+
+TY  - PHDT
+AU  - Jiang, ZM
+T2  - \ldots symposium on Software testing and analysis
+T1  - Automated analysis of load testing results
+UR  - http://dl.acm.org/citation.cfm?id=1831726
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - The goal of a load test is to uncover functional and per- formance problems of a system under load. Performance problems refer to the situations where a system suffers from unexpectedly high response time or low throughput. It is difficult to detect performance problems in a load test due to the absence of formally-defined performance objectives and the large amount of data that must be examined. In this paper, we present an approach which automati- cally analyzes the execution logs of a load test for perfor- mance problems. We first derive the system's performance baseline from previous runs. Then we perform an in-depth performance comparison against the derived performance baseline. Case studies show that our approach produces few false alarms (with a precision of 77\) and scales well to large industrial systems.
+AU  - Jiang, ZM
+AU  - Hassan, AE
+JO  - \ldots , 2009. ICSM 2009. IEEE \ldots
+T1  - Automated performance analysis of load tests
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AB  - Search-based software testing is the application of metaheuristic search techniques to generate software tests. The test adequacy criterion is transformed into a fitness function and a set of solutions in the search space are evaluated with respect to the fitness function using a metaheuristic search technique. The application of metaheuristic search techniques for testing is promising due to the fact that exhaustive testing is infeasible considering the size and complexity of software under test. Search-based software testing has been applied across the spectrum of test case design methods; this includes white-box (structural), black-box (functional) and grey-box (combination of structural and functional) testing. In addition, metaheuristic search techniques have also been applied to test non-functional properties. The overall objective of undertaking this systematic review is to examine existing work into non-functional search-based software testing (NFSBST). We are interested in types of non-functional testing targeted using metaheuristic search techniques, different fitness functions used in different types of search-based non-functional testing and challenges in the application of these techniques. The systematic review is based on a comprehensive set of 35 articles obtained after a multi-stage selection process and have been published in the time span 1996-2007. The results of the review show that metaheuristic search techniques have been applied for non-functional testing of execution time, quality of service, security, usability and safety. A variety of metaheuristic search techniques are found to be applicable for non-functional testing including simulated annealing, tabu search, genetic algorithms, ant colony methods, grammatical evolution, genetic programming (and its variants including linear genetic programming) and swarm intelligence methods. The review reports on different fitness functions used to guide the search for each of the categories of execution time, safety, usability, quality of service and security; along with a discussion of possible challenges in the application of metaheuristic search techniques. ?? 2009 Elsevier B.V. All rights reserved.
+AU  - Afzal, Wasif
+AU  - Torkar, Richard
+AU  - Feldt, Robert
+SN  - 0950-5849
+JO  - Information and Software Technology
+KW  - Non-functional system properties
+KW  - Search-based software testing
+KW  - Systematic review
+IS  - 6
+SP  - 957
+EP  - -976
+PB  - Elsevier B.V.
+T1  - A systematic review of search-based testing for non-functional system properties
+UR  - http://dx.doi.org/10.1016/j.infsof.2008.12.005
+VL  - 51
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AU  - Harmen, Wegener, Joachim and Pitschinetz, Roman and Sthamer
+JO  - Proceedings of the 1st International Workshop on Automated Program Analysis, Testing and Verification (WAPATV'00)
+T1  - Automated Testing of Real-Time Tasks
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AU  - Nevedrov, Dmitri
+SP  - 1
+EP  - -11
+T1  - Using JMeter to Performance Test Web Services
+PY  - 2007
+ER  - 
+
+
+TY  - BOOK
+AB  - This practical book provides a step-by-step approach to testing mission-critical applications for scalability and performance before they're deployed -- a vital topic to which other books devote one chapter, if that. Businesses today live and die by network applications and web services. Because of the increasing complexity of these programs, and the pressure to deploy them quickly, many professionals don't take the time to ensure that they'll perform well and scale effectively. The Art of Application Performance Testing explains the complete life cycle of the testing process, and demonstrates best practices to help you plan, gain approval for, coordinate, and conduct performance tests on your applications. With this book, you'll learn to: Set realistic performance testing goals Implement an effective application performance testing strategy Interpret performance test results Cope with different application technologies and architectures Use automated performance testing tools Test traditional local applications, web-based applications, and web services (SOAs) Recognize and resolves issues that are often overlooked in performance tests Written by a consultant with 30 years of experience in the IT industry and over 12 years experience with performance testing, this easy-to-read book is illustrated with real-world examples and packed with practical advice. The Art of Application Performance Testing thoroughly explains the pitfalls of an inadequate testing strategy and offers you a robust, structured approach for ensuring that your applications perform well and scale effectively when the need arises. "Ian has maintained a vendor-agnostic methodology beautifully in this material. The metrics and graphs, along with background information provided in his case studies, eloquently convey to the reader, 'Methodology above all, tools at your discretion...' Ian's expertise shines through throughout the entire reading experience." -- Matt St. Onge, Enterprise Solution Architect, HCL Technologies America / Teradyne
+AU  - Molyneaux, Ian
+SN  - 9780596551056
+KW  - COMPUTERS / Computer Literacy
+KW  - COMPUTERS / Computer Science
+KW  - COMPUTERS / Data Processing
+KW  - COMPUTERS / Hardware / General
+KW  - COMPUTERS / Machine Theory
+KW  - COMPUTERS / Reference
+KW  - Computers / Information Technology
+KW  - Computers / Software Development \ Engineering / G
+KW  - Computers / Software Development \ Engineering / S
+KW  - Computers / Web / Design
+Y2  - January
+SP  - 159
+PB  - "O'Reilly Media, Inc."
+T1  - The Art of Application Performance Testing
+UR  - http://it-ebooks.info/book/323/ http://books.google.com.br/books?id=TKUP3pxxsJsC http://books.google.com/books?hl=en\lr=\id=TKUP3pxxsJsC\oi=fnd\pg=PR3\dq=The+Art+of+Application+Performance+Testing:+Help+for+Programmers+and+Quality+Assurance\ots=gJuqbd5Ylw\sig=JOVIXIft7TCDf73XeGDfyDD3R20 http://books.google.com/books?hl=en\lr=\id=TKUP3pxxsJsC\oi=fnd\pg=PR3\dq=The+Art+of+Application+Performance+Testing:+Help+for+Programmers+and+Quality+Assurance\ots=gJuqbd6Ylu\sig=46ds1kHFwtNgnGuomZK3KI1\_2\_M
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AU  - Sullivan, Michael O
+AU  - Vossner, Siegfried
+AU  - Wegener, Joachim
+AU  - Ag, Daimler-benz
+SP  - 1
+EP  - -20
+T1  - Testing Temporal Correctness of Real-Time Systems --- A New Approach Using Genetic Algorithms and Cluster Analysis ---
+ER  - 
+
+
+TY  - CONF
+AU  - Draheim, D.
+AU  - Grundy, J.
+AU  - Hosking, J.
+AU  - Lutteroth, C.
+AU  - Weber, G.
+T2  - Conference on Software Maintenance and Reengineering (CSMR'06)
+SN  - 0-7695-2536-9
+T1  - Realistic load testing of Web applications
+PY  - 2006
+ER  - 
+
+
+TY  - PHDT
+AU  - Luiz, Artur
+AU  - Freitas, Cunha
+AU  - Prof, Orientadora
+AU  - Vieira, Renata
+T1  - Ontologias para Teste de Desempenho de Software
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AU  - Fe, Iure De Sousa
+AU  - dos Santos, Pedro de Alcantara
+T1  - Os custos dos Testes de Desempenho e Estresse
+PY  - 2004
+ER  - 
+
+
+TY  - JOUR
+AU  - Babbar, C
+AU  - Bajpai, N
+AU  - Sarmah, Dk
+SN  - 9789380544007
+JO  - International Journal of Technology \ldots
+T1  - Web Application Performance Analysis based on Component Load Testing
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AU  - Avritzer, A.
+AU  - Weyuker, E.J.
+JO  - Software Engineering, IEEE \ldots
+KW  - Automatic testing
+KW  - Communication industry
+KW  - Computer industry
+KW  - Markov chain
+KW  - Markov processes
+KW  - Performance evaluation
+KW  - Resource management
+KW  - Software algorithms
+KW  - Software systems
+KW  - System testing
+KW  - automatic test case generation algorithms
+KW  - automatic test software
+KW  - domain-based reliability measure
+KW  - fault detection
+KW  - industrial software systems
+KW  - load test suites
+KW  - load testing
+KW  - program testing
+KW  - reliability
+KW  - resource allocation
+KW  - resource allocation mechanisms
+KW  - software reliability
+KW  - software testing
+KW  - system degradation
+KW  - telecommunication computing
+KW  - telecommunications software
+IS  - 9
+SP  - 705
+EP  - -716
+T1  - The automatic generation of load test suites and the assessment of the resulting software
+VL  - 21
+PY  - 1995
+ER  - 
+
+
+TY  - JOUR
+AU  - Garousi, Vahid
+JO  - IEEE Transactions on Software Engineering
+KW  - empirical analysis
+KW  - genetic algorithms
+KW  - search-based testing
+KW  - stress testing
+KW  - test automation
+KW  - test tools
+Y2  - November
+IS  - 6
+SP  - 778
+EP  - -797
+T1  - A Genetic Algorithm-Based Stress Test Requirements Generator Tool and Its Empirical Evaluation
+VL  - 36
+PY  - 2010
+ER  - 
+
+
+TY  - CONF
+AD  - New York, NY, USA
+N1  - From Duplicate 1 ( 
+AU  - Avritzer, Alberto
+AU  - Larson, Brian
+T2  - ACM SIGSOFT Software Engineering Notes
+SN  - 0-89791-608-5
+SP  - 82
+EP  - -88
+PB  - ACM
+T1  - Load Testing Software Using Deterministic State Testing
+PY  - 1993
+ER  - 
+
+
+TY  - JOUR
+AD  - New York, New York, USA
+AU  - Avritzer, Alberto
+AU  - Weyuker, EJ
+SN  - 0897916832
+JO  - \ldots international symposium on Software testing \ldots
+SP  - 44
+EP  - -57
+PB  - ACM Press
+T1  - Generating test suites for software load testing
+UR  - http://portal.acm.org/citation.cfm?doid=186258.186507 http://dl.acm.org/citation.cfm?id=186507
+PY  - 1994
+ER  - 
+
+
+TY  - JOUR
+AU  - Garousi, Vahid
+SN  - 9780494262252
+IS  - August
+T1  - Traffic-aware Stress Testing of Distributed Real-Time Systems based on UML Models using Genetic Algorithms
+PY  - 2006
+ER  - 
+
+
+TY  - JOUR
+AU  - Santos, I de Sousa
+AU  - Santos, AR
+AU  - Neto, PA dos Santos
+JO  - SEKE
+KW  - - software testing
+KW  - data generation
+KW  - experimental study
+KW  - however
+KW  - limitations in
+KW  - non-functional
+KW  - of performance and stress
+KW  - requirements
+KW  - scripts
+KW  - scripts from functional testing
+KW  - testing
+KW  - tool enabled the generation
+T1  - Reusing Functional Testing in order to Decrease Performance and Stress Testing Costs.
+UR  - http://www.ksi.edu/seke/Proceedings/seke11/225\_Pedro\_Santos\_Neto.pdf
+PY  - 2011
+ER  - 
+
+
+TY  - BOOK
+AU  - Bernard, Pierre
+PB  - Van Haren
+T1  - Foundations of ITIL
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AU  - Abu-nimeh, Saeed
+AU  - Nair, Suku
+AU  - Marchetti, Marco
+KW  - bandwidth throttle
+KW  - denial of service
+KW  - ramp-up time
+KW  - response time
+KW  - stress-testing
+KW  - think
+KW  - time
+KW  - ttfb
+KW  - ttlb
+T1  - Avoiding Denial of Service via Stress Testing
+PY  - 2001
+ER  - 
+
+
+TY  - JOUR
+AU  - Garousi, Vahid
+SN  - 9781605581309
+JO  - Proceedings of the 10th annual conference on Genetic and evolutionary computation - GECCO '08
+KW  - empirical analysis
+KW  - genetic algorithms
+KW  - stress testing
+SP  - 1743
+T1  - Empirical analysis of a genetic algorithm-based stress test technique
+UR  - http://portal.acm.org/citation.cfm?doid=1389095.1389433
+PY  - 2008
+ER  - 
+
+
+TY  - JOUR
+AU  - Chakravarty, A
+JO  - Information Technology: New Generations ( \ldots
+T1  - Stress testing an ai based web service: A case study
+UR  - http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5501500
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AU  - Acharya, Mithun
+AU  - Kommineni, Vamshidhar
+SN  - 9780769538914
+JO  - ASE2009 - 24th IEEE/ACM International Conference on Automated Software Engineering
+SP  - 409
+EP  - -420
+T1  - Mining health models for performance monitoring of services
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+SN  - 09205489 (ISSN)
+JO  - Computer Standards and Interfaces
+KW  - Mean time to overflow
+KW  - Quality in use
+KW  - Software automated testing
+KW  - Software reliability
+IS  - 2
+SP  - 152
+EP  - -158
+PB  - Elsevier B.V.
+T1  - Software automated testing: A solution to maximize the test plan coverage and to increase software reliability and quality in use
+UR  - http://dx.doi.org/10.1016/j.csi.2010.06.006
+VL  - 33
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AB  - The development of real-time systems is an essential industrial activity whose importance is increasing. The most important analytical method to assure the quality of real-time systems is dynamic testing. Testing is the only method which examines the actual run-time behaviour of real-time software, based on an execution in the real application environment. Dynamic aspects like the duration of computations, the memory actually needed, or the synchronization of parallel processes are of major importance for the correct function of real-time systems and have to be tested. A comprehensive investigation of existing software test methods shows that they mostly concentrate on testing for functional correctness. They are not suited for an examination of temporal correctness which is essential to real-time systems. Very small systems show a wide range of different execution times. Therefore, existing test procedures must be supplemented by new methods, which concentrate on determining whether the system violates its specified timing constraints. In general, this means that outputs are produced too early or their computation takes too long. The task of the tester is to find the inputs with the longest or shortest execution times to check whether they produce a temporal error. If the search for such inputs is interpreted as a problem of optimization, genetic algorithms can be used to find the inputs with the longest or shortest execution times automatically. The fitness function is the execution time measured in processor cycles. Experiments using genetic algorithms on a number of programs with up to 1511 LOC and 843 integer input parameters have successfully identified new longer and shorter paths than had been found using random testing or systematic testing. Genetic algorithms are able therefore to check large programs and they show considerable promise in establishing the validity of the temporal behaviour of real-time software.
+AU  - Wegener, Joachim
+AU  - Sthamer, Harmen
+AU  - Jones, Bryan F
+AU  - Eyres, David E
+JO  - Software Quality Journal
+KW  - embedded systems
+KW  - genetic algorithms
+KW  - real time systems
+KW  - temporal behaviour
+KW  - testing
+IS  - 2
+SP  - 127
+EP  - -135
+T1  - Testing real-time systems using genetic algorithms
+UR  - http://www.springerlink.com/index/uh26067rt3516765.pdf
+VL  - 6
+PY  - 1997
+ER  - 
+
+
+TY  - CONF
+AB  - In this work we are studying possibilities to test software using genetic algorithm search. The idea is to produce test cases in order to find problematic situations like processing time extremes. The proposed test method comes under the heading of automated dynamic stress testing. Keywords: genetic algorithms, software engineering, dynamic stress testing 1 Introduction Real-time software is increasingly applied to products in which failure may have severe consequences, thus the requirements for correctness and reliability are getting higher, too. In very reliable sequential programs, the rate of errors should be less than 10 errors/1000 lines of code, to avoid functional failure. Achieving this level is very labourious, because the amount of program testing work grows exponentially with code size. Testing software manually is slow, expensive and demands inventiveness. Automated testing can reduce both the time and costs needed for performing tests. Exhaustive test data generation is...
+N1  - From Duplicate 1 ( 
+AU  - Alander, Jarmo T. JT
+AU  - Mantere, Timo
+AU  - Turunen, Pekka
+T2  - Neural Nets and Genetic Algorithms
+T1  - Genetic Algorithm Based Software Testing
+UR  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9891\rep=rep1\type=pdf http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.52.9891 http://link.springer.com/chapter/10.1007/978-3-7091-6492-1\_71
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AU  - Barros, Marcelo De
+AU  - Shiau, Jing
+JO  - \ldots and Networks, 2007. \ldots
+T1  - Web services wind tunnel: On performance testing large-scale stateful web services
+UR  - http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=4273012
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AB  - An approach to software performance testing is discussed. A case study describing the experience of using this approach for testing the performance of a system used as a gateway in a large industrial client/server transaction processing application is presented.
+AU  - Weyuker, EJ
+AU  - Vokolos, FI
+JO  - IEEE transactions on software engineering
+KW  - Software performance testing
+KW  - performance testing.
+KW  - program testing
+KW  - software testing
+IS  - 12
+SP  - 1147
+EP  - -1156
+T1  - Experience with performance testing of software systems: issues, an approach, and case study
+UR  - http://dx.doi.org/10.1109/32.888628 http://www.computer.org/csdl/trans/ts/2000/12/e1147.pdf
+VL  - 26
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AB  - This survey investigates search-based approaches to software design. The basics of the most popular meta-heuristic algorithms are presented as background to the search-based viewpoint. Software design is considered from a wide viewpoint, including topics that can also be categorized as software maintenance or re-engineering. Search-based approaches have been used in research from the high architecture design level to software clustering and finally software refactoring. Enhancing and predicting software quality with search-based methods is also taken into account as a part of the design process. The background for the underlying software engineering problems is discussed, after which search-based approaches are presented. Summarizing remarks and tables collecting the fundamental issues of approaches for each type of problem are given. The choices regarding critical decisions, such as representation and fitness function, when used in meta-heuristic search algorithms, are emphasized and discussed in detail. Ideas for future research directions are also given. © 2010 Elsevier Inc.
+AU  - Raiha, Outi
+SN  - 15740137
+JO  - Computer Science Review
+KW  - Search algorithms
+KW  - Search-based software engineering
+KW  - Software design
+KW  - Software quality
+IS  - 4
+SP  - 203
+EP  - -249
+PB  - Elsevier Inc.
+T1  - A survey on search-based software design
+UR  - http://dx.doi.org/10.1016/j.cosrev.2010.06.001
+VL  - 4
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - With the recent rapid development of mobile devices in terms of processing power, memory and storage capabilities coupled with the advancements of wireless technology in terms of higher data transmission rates such as 3G and 4G, it has now become feasible to host Web services on mobile devices. In this paper we propose a lightweight framework for hosting Web services on mobile devices. We further evaluate and provide a comparative analysis for hosting RESTful Web services versus SOAP-based Web services on our framework. Our experimental results and analysis indicate that RESTful Web services are less resource-consuming and more efficient for the implementation and provisioning of Web services from resource-constrained mobile devices. ?? 2012 Published by Elsevier Ltd.
+AU  - Mohamed, KamalEldin
+AU  - Wijesekera, Duminda
+SN  - 1877-0509
+JO  - Procedia Computer Science
+KW  - Lightweight framework
+KW  - Mobile web server
+KW  - REST
+KW  - SOAP
+KW  - Web services
+SP  - 744
+EP  - -751
+PB  - Duminda Wijesekera
+T1  - Performance analysis of web services on mobile devices
+UR  - http://dx.doi.org/10.1016/j.procs.2012.06.095
+VL  - 10
+PY  - 2012
+ER  - 
+
+
+TY  - BOOK
+AU  - Reeves, Colin R
+PB  - John Wiley \ Sons, Inc.
+T1  - Modern heuristic techniques for combinatorial problems
+PY  - 1993
+ER  - 
+
+
+TY  - JOUR
+AB  - The classic, landmark work on software testingThe hardware and software of computing have changed markedly in the three decades since the first edition of The Art of Software Testing, but this book's powerful underlying analysis has stood the test of time. Whereas most books on software testing target particular development techniques, languages, or testing methods, The Art of Software Testing, Third Edition provides a brief but powerful and comprehensive presentation of time-proven software testing approaches. If your software development project is mission critical, this book is an investment that will pay for itself with the first bug you find.The new Third Edition explains how to apply the book's classic principles to today's hot topics including:Testing apps for iPhones, iPads, BlackBerrys, Androids, and other mobile devicesCollaborative (user) programming and testingTesting for Internet applications, e-commerce, and agile programming environmentsWhether you're a student looking for a testing guide you'll use for the rest of your career, or an IT manager overseeing a software development team, The Art of Software Testing, Third Edition is an expensive book that will pay for itself many times over.
+AU  - Sandler, Corey
+AU  - Badgett, Tom
+AU  - Thomas, TM
+SN  - 9781118133156
+KW  - Business \ Economics / Reference
+KW  - Computers / Information Technology
+Y2  - September
+SP  - 200
+PB  - John Wiley \ Sons
+T1  - The Art of Software Testing
+UR  - http://books.google.com.br/books?id=GjyEFPkMCwcC http://scholar.google.com/scholar?hl=en\btnG=Search\q=intitle:The+Art+of+Software+Testing\#0
+PY  - 2004
+ER  - 
+
+
+TY  - BOOK
+AU  - Erinle, Bayo
+SN  - 9781782165842
+T1  - Performance Testing With JMeter 2.9
+UR  - http://books.google.com/books?hl=en\lr=\id=fpWmv3wPT64C\oi=fnd\pg=PT8\dq=Performance+Testing+with+JMeter+2.9\ots=Uh6yp3HcIO\sig=wfz5wY1KjRenuljBhWObSJlTmVA
+PY  - 2013
+ER  - 
+
+
+TY  - GEN
+AB  - Performance Testing Guidance for Web Applications provides an end-to-end approach for implementing performance testing. Whether you are new to performance testing or looking for ways to improve your current performance-testing approach, you will gain insights that you can tailor to your specific scenarios.
+AD  - United States?
+AU  - Corporation, Microsoft
+SN  - 9780735625709
+Y2  - November
+SP  - 288
+PB  - Microsoft Press
+T1  - Performance Testing Guidance for Web Applications
+UR  - http://www.amazon.com/Performance-Testing-Guidance-Web-Applications/dp/0735625700 http://msdn.microsoft.com/en-us/library/bb924375.aspx
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AU  - Snellman, Niclas
+AU  - Ashraf, Adnan
+AU  - Porres, Ivan
+KW  - -performance testing
+KW  - a flat performance curve
+KW  - application should ideally maintain
+KW  - cloud computing
+KW  - intended maximum load level
+KW  - rich in-
+KW  - scalability testing
+KW  - ternet applications
+KW  - until it reaches its
+T1  - Towards Automatic Performance and Scalability Testing of Rich Internet Applications in the Cloud
+ER  - 
+
+
+TY  - JOUR
+AB  - This paper studies the use of statistical induction techniques as a basis for automated performance diagnosis and performance management. The goal of the work is to develop and evaluate tools for offline and online analysis of system metrics gathered from instrumentation in Internet server platforms. We use a promising class of probabilistic models (Tree-Augmented Bayesian Networks or TANs) to identify combinations of system-level metrics and threshold values that correlate with high-level with Service Level Objectives (SLOs) for average-case response timein a three-tier Web service under a variety of conditions. Experimental results from a testbed show that TAN models involving small subsets of metrics capture patterns of performance behavior in a way that is accurate and yields insights into the causes of observed performance effects. TANs are extremely efficient to represent and evaluate, and they have interpretability properties that make them excellent candidates for automated diagnosis and control. We explore the use of TAN models for offline forensic diagnosis, and in a limited online setting for performance forecasting with stable workloads.
+AU  - Cohen, Ira
+AU  - Goldszmidt, Moises
+AU  - Kelly, Terence
+AU  - Symons, Julie
+AU  - Chase, Jeffrey S
+JO  - Small
+IS  - December
+SP  - 6
+EP  - -8
+T1  - Correlating instrumentation data to system states : A building block for automated diagnosis and control performance forecasting automated performance diagnosis and performance management . The goal of the work is to develop and evaluate tools for offline
+UR  - http://www.usenix.org/events/osdi04/tech/cohen.html
+PY  - 2004
+ER  - 
+
+
+TY  - JOUR
+AU  - Biolchini, Jorge
+AU  - Mian, Paula Gomes
+AU  - Candida, Ana
+AU  - Natali, Cruz
+SN  - 9783540706199
+JO  - System Engineering and Computer Science Department COPPE/UFRJ, Technical Report ES
+IS  - May
+SP  - 165
+EP  - -176
+T1  - Systematic Review in Software Engineering
+VL  - 679
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AU  - Goncalves, Marcelo Canario
+T1  - Um Processo de Inferencia de Desempenho para Apoiar o Planejamento da Capacidade de Aplicacoes na Nuvem Um Processo de Inferencia de Desempenho para Apoiar o Planejamento da Capacidade de Aplicacoes na Nuvem
+PY  - 2014
+ER  - 
+
+
+TY  - BOOK
+AU  - Feitelson, Dror G
+PB  - Cambridge University Press
+T1  - Workload Modeling for Computer Systems Performance Evaluation
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AU  - Malik, Haroon
+SN  - 978-1-60558-719-6
+JO  - Software Engineering, 2010 ACM/IEEE 32nd \ldots
+KW  - automation
+KW  - counters
+KW  - load test
+KW  - performance counters
+KW  - principal component analysis
+SP  - 421
+EP  - -424
+PB  - IEEE
+T1  - A methodology to support load test analysis
+VL  - 2
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - What makes a distributed system reliable? A study of failures in
+the US public switched telephone network (PSTN) shows that human
+intervention is one key to this large system's reliability. Software is
+not the weak link in the PSTN system's dependability. Extensive use of
+built-in self-test and recovery mechanisms in major system components
+(switches) contributed to software dependability and are significant
+design features in the PSTN. The network's high dependability indicates
+that the trade-off between dependability gains and complexity introduced
+by built-in self-test and recovery mechanisms can be positive. Likewise,
+the tradeoff between complex interactions and the loose coupling of
+system components has been positive, permitting quick human intervention
+in most system failures and resulting in an extremely reliable system
+
+AU  - Kuhn, D. Richard
+JO  - Computer
+IS  - 4
+SP  - 31
+EP  - -36
+T1  - Sources of failure in the public switched telephone network
+VL  - 30
+PY  - 1997
+ER  - 
+
+
+TY  - JOUR
+AU  - McMinn, Philip
+AU  - Court, Regent
+AU  - Testing, Software
+AU  - Street, Portobello
+SN  - 1099-1689
+JO  - Software testing, Verification and reliability
+KW  - Automated software test data generation
+KW  - Evolutionary algorithms
+KW  - Evolutionary testing
+KW  - Metaheuristic search
+KW  - Search-based software engineering
+KW  - Simulated annealing
+KW  - algorithms
+KW  - automated software test
+KW  - automated software test data generation
+KW  - data generation
+KW  - evolutionary
+KW  - evolutionary algorithms
+KW  - evolutionary testing
+KW  - metaheuristic search
+KW  - search-based software engineering
+KW  - simulated annealing
+SP  - 1
+EP  - -58
+T1  - Search-based software test data generation: a survey
+VL  - 14
+PY  - 2004
+ER  - 
+
+
+TY  - JOUR
+AU  - Di Lucca, Giuseppe a.
+AU  - Fasolino, Anna Rita
+SN  - 0-7695-2413-3
+JO  - Information and Software Technology
+KW  - Software testing
+KW  - Web application testing
+KW  - Web engineering
+SP  - 1172
+EP  - -1186
+T1  - Testing Web-based applications: The state of the art and future trends
+VL  - 48
+PY  - 2006
+ER  - 
+
+
+TY  - JOUR
+AU  - Anand, Saswat
+AU  - Burke, Edmund K.
+AU  - Chen, Tsong Yueh
+AU  - Clark, John
+AU  - Cohen, Myra B.
+AU  - Grieskamp, Wolfgang
+AU  - Harman, Mark
+AU  - Harrold, Mary Jean
+AU  - McMinn, Phil
+JO  - Journal of Systems and Software
+KW  - Adaptive random testing
+KW  - Combinatorial testing
+KW  - Model-based testing
+KW  - Orchestrated survey
+KW  - Search-based software testing
+KW  - Software testing
+KW  - Symbolic execution
+KW  - Test automation
+KW  - Test case generation
+SP  - 1978
+EP  - -2001
+T1  - An orchestrated survey of methodologies for automated software test case generation
+VL  - 86
+PY  - 2013
+ER  - 
+
+
+TY  - CONF
+AU  - Penta, Massimiliano Di
+AU  - Canfora, Gerardo
+AU  - Esposito, Gianpiero
+T2  - Proceedings of the 9th annual conference on Genetic and evolutionary computation
+SN  - 9781595936974
+KW  - quality of
+KW  - search-based testing
+KW  - service level agreement
+SP  - 1090
+EP  - -1097
+T1  - Search-based testing of service level agreements
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AU  - Barber, Scott
+SP  - 1
+EP  - -9
+T1  - User Community Modeling Language ( UCML ™ ) v1 . 1 for Performance Test Workloads UCML ™ Overview
+PY  - 1999
+ER  - 
+
+
+TY  - JOUR
+AU  - da Silveira, MB
+AU  - Rodrigues, EM
+AU  - Zorzo, AF
+JO  - SEKE
+KW  - - model-based testing
+KW  - performance testing
+KW  - software product line
+T1  - Generation of Scripts for Performance Testing Based on UML Models.
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AU  - Grechanik, Mark
+AU  - Fu, Chen
+AU  - Xie, Qing
+SN  - 978-1-4673-1067-3
+JO  - 2012 34th International Conference on Software Engineering (ICSE)
+Y2  - June
+SP  - 156
+EP  - -166
+PB  - Ieee
+T1  - Automatically finding performance problems with feedback-directed learning software testing
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AU  - Barna, Cornel
+AU  - Litoiu, M
+AU  - Ghanbari, H
+SN  - 9781450306072
+JO  - \ldots international conference on Autonomic \ldots
+KW  - autonomic system
+KW  - performance mod-
+KW  - performance testing
+SP  - 91
+EP  - -100
+T1  - Autonomic load-testing framework
+PY  - 2011
+ER  - 
+
+
+TY  - BOOK
+AU  - Everett, Gerald D
+AU  - Jr., Raymond McLeod
+SN  - 9780471793717
+T1  - Software Testing: Testing Across the Entire Software Development Life Cycle
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AU  - Chen, Feifei
+JO  - chinacloud.cn
+KW  - as it requires
+KW  - cloud computing
+KW  - cost
+KW  - effectiveness before the deployment
+KW  - energy
+KW  - however
+KW  - of cloud systems
+KW  - performance engineering
+KW  - this is not a
+KW  - trade-off analysis
+KW  - trivial task
+T1  - Generating a Performance Test-bed for Cloud Computing Systems
+ER  - 
+
+
+TY  - JOUR
+SN  - 0950-5849
+JO  - Information and Software Technology
+KW  - Non-functional system properties
+KW  - Search-based software testing
+KW  - Systematic review
+IS  - 6
+SP  - 957
+EP  - -976
+PB  - Elsevier B.V.
+T1  - A systematic review of search-based testing for non-functional system properties
+VL  - 51
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AU  - Mendoza, Valerie
+AU  - Novick, Dg
+SN  - 9157475725
+JO  - SIGDOC '05 Proceedings of the 23rd annual international conference on Design of communication: documenting \ designing for pervasive information
+KW  - training
+KW  - usability
+SP  - 151
+EP  - -158
+T1  - Usability over time
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AB  - This is the second half of a two part series devoted to the tabu search metastrategy for optimization problems. Part I introduced the fundamental ideas of tabu search as an approach for guiding other heuristics to overcome the limitations of local optimality, both in a deterministic and a probabilistic framework. Part I also reported successful applications from a wide range of settings, in which tabu search frequently made it possible to obtain higher quality solutions than previously obtained with competing strategies, generally with less computational effort. Part II, in this issue, examines refinements and more advanced aspects of tabu search. Following a brief review of notation, Part II introduces new dynamic strategies for managing tabu lists, allowing fuller exploitation of underlying evaluation functions. In turn, the elements of staged search and structured move sets are characterized, which bear on the issue of finiteness. Three ways of applying tabu search to the solution of integer programming problems are then described, providing connections also to certain nonlinear programming applications. Finally, the paper concludes with a brief survey of new applications of tabu search that have occurred since the developments reported in Part I. Together with additional comparisons with other methods on a wide body of problems, these include results of parallel processing implementations and the use of tabu search in settings ranging from telecommunications to neural networks.
+AU  - Glover, Fred
+SN  - 079239965X
+JO  - ORSA journal on Computing
+IS  - 3
+SP  - 4
+EP  - -32
+T1  - Tabu Search - Part II
+UR  - http://joc.journal.informs.org/content/2/1/4.full.pdf
+VL  - 2 1
+PY  - 1989
+ER  - 
+
+
+TY  - JOUR
+AU  - Kirkpatrick
+IS  - 4598
+SP  - 671
+EP  - -680
+T1  - Optimization by SA
+VL  - 220
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AB  - Many statistical methods rely on numerical optimization to estimate a model's parameters. Unfortunately, conventional algorithms sometimes fail. Even when they do converge, there is no assurance that they have found the global, rather than a local, optimum. We test a new optimization algorithm, simulated annealing, on four econometric problems and compare it to three common conventional algorithms. Not only can simulated annealing find the global optimum, it is also less likely to fail on difficult functions because it is a very robust algorithm. The promise of simulated annealing is demonstrated on the four econometric problems.
+AU  - Goffe, William L.
+AU  - Ferrier, Gary D.
+AU  - Rogers, John
+SN  - 0304-4076
+JO  - Journal of Econometrics
+KW  - simulated
+IS  - 1-2
+SP  - 65
+EP  - -99
+T1  - Global optimization of statistical functions with simulated annealing
+VL  - 60
+PY  - 1994
+ER  - 
+
+
+TY  - PHDT
+AU  - Tracey, Nigel James
+T1  - A search-based automated test-data generation framework for safety-critical software
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AU  - Alander, Jarmo T
+AU  - Mantere, Pekka Turunen
+AU  - Virolainen, Jari
+PB  - Citeseer
+T1  - GA in program testing
+PY  - 1996
+ER  - 
+
+
+TY  - JOUR
+AB  - One of the major costs in a software project is the construction of test-data. This paper outlines a generalised test-case data generation framework based on optimisation techniques. The framework can incorporate a number of testing criteria, for both functional and non-functional properties. Application of the optimisation framework to testing specification failures and exception conditions is illustrated. The results of a number of small case studies are presented and show the efficiency and effectiveness of this dynamic optimisation-based approach to generating test-data
+AU  - Tracey, N J
+AU  - Clark, J a
+AU  - Mander, K C
+KW  - QA 76 Software
+KW  -  computer programming
+T1  - Automated Programme Flaw Finding using Simulated Annealing
+UR  - http://kar.kent.ac.uk/21679/
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AB  - For real-time systems, correct system functionality depends on
+logical as well as on temporal correctness. Static analysis alone is not
+sufficient to verify the temporal behavior of real-time systems. Since
+existing test methods are not specialized for the verification of
+temporal correctness, we have developed a new testing method, namely
+evolutionary testing. This paper illustrates results of the first
+industrial application of the evolutionary test
+AU  - Wegener, J.
+AU  - Sthamer, H.
+AU  - Pohlheim, H.
+SN  - 0-7695-0475-2
+JO  - Proceedings 20th IEEE Real-Time Systems Symposium (Cat. No.99CB37054)
+T1  - Testing the temporal behavior of real-time tasks using extended evolutionary algorithms
+PY  - 1999
+ER  - 
+
+
+TY  - JOUR
+AB  - The paper contrasts two methods to verify timing constraints of
+real-time applications. The method of static analysis predicts the
+worst-case and best-case execution times of a task's code by analyzing
+execution paths and simulating processor characteristics without ever
+executing the program or requiring the program's input. Evolutionary
+testing is an iterative testing procedure, which approximates the
+extreme execution times within several generations. By executing the
+test object dynamically and measuring the execution times the inputs are
+guided yielding gradually tighter predictions of the extreme execution
+times. The authors examined both approaches on a number of real world
+examples. The results show that static analysis and evolutionary testing
+are complementary methods, which together provide upper and lower bounds
+for both worst-case and best-case execution times
+AU  - Mueller, F.
+AU  - Wegener, J.
+SN  - 0-8186-8569-7
+JO  - Proceedings. Fourth IEEE Real-Time Technology and Applications Symposium (Cat. No.98TB100245)
+T1  - A comparison of static analysis and evolutionary testing for the verification of timing constraints
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AB  - Analytically derived worst case execution time (WCET) bounds are
+prone to errors, because they often rely on information provided by the
+user. The paper presents a method for testing the results of static WCET
+analysis. The proposed test method is a blackbox test method that uses a
+genetic algorithm (GA) for test case generation. Important properties of
+the method are: (a) that it requires minimal information about possible
+impact data from the user and (b) that the GA guides data generation
+into directions that have a good chance to yield the real WCET of the
+program under test. Experimental results show that GA based testing
+produces results of high quality
+AU  - Puschner, P.
+AU  - Nossal, R.
+SN  - 0-8186-9212-X
+JO  - Proceedings 19th IEEE Real-Time Systems Symposium (Cat. No.98CB36279)
+T1  - Testing the results of static worst-case execution-time analysis
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AU  - Jones, J. Wegener, K. Grimm, M. Grochtmann H. Sthamer B.
+JO  - EuroSTAR'96: Proceedings of the Fourth International Conference on Software Testing Analysis and Review
+T1  - Systematic testing of real-time systems
+UR  - http://update-it.com/documents/eurostar1996.pdf
+PY  - 1996
+ER  - 
+
+
+TY  - JOUR
+AU  - Gro, Hans-Gerhard
+PB  - Citeseer
+T1  - A prediction system for dynamic optimisation-based execution time analysis
+PY  - 2001
+ER  - 
+
+
+TY  - GEN
+AU  - Gross, Hg
+T2  - Proceedings of the International Conference on Information Technology: Prospects and Challenges in the 21st Century
+T1  - An evaluation of dynamic, optimisation-based worst-case execution time analysis
+UR  - http://update-it.com/documents/grossITPC03\_RealTime.pdf
+PY  - 2003
+ER  - 
+
+
+TY  - JOUR
+AU  - Briand, Lionel C.
+AU  - Labiche, Yvan
+AU  - Shousha, Marwa
+SN  - 1595930108
+JO  - Proceedings of the 2005 conference on Genetic and evolutionary computation - GECCO '05
+KW  - genetic algorithms
+KW  - schedulability theory
+SP  - 1021
+T1  - Stress testing real-time systems with genetic algorithms
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AU  - Canfora, Gerardo
+AU  - Penta, Massimiliano Di
+AU  - Esposito, Raffaele
+AU  - Villani, Maria Luisa
+SN  - 1595930108
+KW  - aware composi-
+KW  - oriented software engineering
+KW  - qos
+KW  - service
+T1  - 2005., Canfora, G., An approach for QoS-aware service composition based on genetic algorithms
+ER  - 
+
+
+TY  - JOUR
+AU  - Gross, H-G
+AU  - Jones, Bryan F
+AU  - Eyres, David E
+JO  - IEE Proceedings-Software
+IS  - 2
+SP  - 25
+EP  - -30
+PB  - IET
+T1  - Structural performance measure of evolutionary testing applied to worst-case timing of real-time systems
+VL  - 147
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AU  - Goldberg, David E
+AU  - Korb, Bradley
+AU  - Deb, Kalyanmoy
+JO  - Complex systems
+IS  - 5
+SP  - 493
+EP  - -530
+PB  - Complex Systems Publications, Champaign, IL, USA
+T1  - Messy genetic algorithms: Motivation, analysis, and first results
+VL  - 3
+PY  - 1989
+ER  - 
+
+
+TY  - JOUR
+AU  - Wegener, Joachim
+AU  - Grochtmann, Matthias
+JO  - Real-Time Systems
+IS  - 3
+SP  - 275
+EP  - -298
+PB  - Springer
+T1  - Verifying timing constraints of real-time systems by means of evolutionary testing
+VL  - 15
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AU  - Alander, Jarmo T
+AU  - Mantere, Timo
+AU  - Moghadampour, Ghodrat
+AU  - Matila, Jukka
+JO  - Electric Power Systems Research
+IS  - 3
+SP  - 229
+EP  - -233
+PB  - Elsevier
+T1  - Searching protection relay response time extremes using genetic algorithm---software quality by optimization
+VL  - 46
+PY  - 1998
+ER  - 
+
+
+TY  - JOUR
+AB  - Many industrial products are based on the use of embedded computer systems. Usually, these systems have to fulfil real-time requirements, and correct system functionality depends on their logical correctness as well as on their temporal correctness. in order to verify the temporal behavior of real-time systems, previous scientific work has, to a large extent, concentrated on static analysis techniques. Although these techniques offer the possibility of providing safe estimates of temporal behavior for certain cases, there are a number of cases in practice for which static analysis can not be easily applied. Furthermore, no commercial tools for timing analysis of real-world programs are available. Therefore, the developed systems have to be thoroughly tested in order to detect existing deficiencies in temporal behavior, as well as to strengthen the confidence in temporal correctness. An investigation of existing test methods shows that they mostly concentrate on testing for logical correctness. They are nor specialised in the examination of temporal correctness which is also essential to real-rime systems. For this reason, existing test procedures must be supplemented by new methods which concentrate on determining whether the system violates its specified timing constraints. Normally, a violation means that outputs are produced too early, or their computation takes too long. The task of the tester therefore is to find the input situations with the longest or shortest execution limes, in order to check whether they produce a temporal error. If the starch for such inputs is interpreted as a problem of optimization, evolutionary computation can be used to automatically find the inputs with the longest or shortest execution rimes. This automatic search for accurate test data by means of evolutionary computation is called evolutionary testing. Experiments using evolutionary testing on a number of programs with up to 1511 LOC and 5000 input parameters have successfully identified new longer and shorter execution times than had been found using other testing techniques. Evolutionary testing, therefore, seems to be a promising approach for the verification of timing constraints. A combination of evolutionary testing and systematic testing offers further opportunities to improve the test quality, and could lead to an effective test strategy for real-time systems.
+AU  - Wegener, J
+AU  - Grochtmann, M
+SN  - 0922-6443
+JO  - Real-Time Systems
+KW  - evolutionary algorithm
+KW  - evolutionary optimization
+KW  - evolutionary testing
+KW  - genetic algorithms
+KW  - real-time systems
+KW  - temporal behavior
+KW  - temporal correctness
+KW  - test strategy
+KW  - testing
+KW  - validation
+KW  - verification
+IS  - 3
+SP  - 275
+EP  - -298
+T1  - Verifying timing constraints of real-time systems by means of evolutionary testing
+UR  - <Go to ISI>://WOS:000077759900004
+VL  - 15
+PY  - 1998
+ER  - 
+
+
+TY  - BOOK
+AB  - "This book introduces you to JMeter (version 2.3) and test automation, providing a step-by-step guide to testing with JMeter. You will learn how to measure the performance of a website using JMeter. While it discusses test automation generally, the bulk of this book gives specific, vivid, and easy-to-understand walkthroughs of JMeter's testing tools showing what they can do, and when and how to use them. Learn to load-test your website, test its functional behaviour, and measure its performance by implementing the features of Jmeter"--Resource description p.
+AU  - Halili, Emily H
+SN  - 9786611737528 6611737529 9781847192967 1847192963 1847192955 9781847192950
+T1  - Apache JMeter a practical beginner's guide to automated testing and performance measurement for your websites
+PY  - 2008
+ER  - 
+
+
+TY  - JOUR
+AU  - Wegener, Joachim
+AU  - Sthamer, Harmen
+AU  - Jones, Bryan F
+AU  - Eyres, David E
+JO  - Software Quality Journal
+IS  - 2
+SP  - 127
+EP  - -135
+PB  - Springer
+T1  - Testing real-time systems using genetic algorithms
+VL  - 6
+PY  - 1997
+ER  - 

@@ -17,47 +17,46 @@ Warning--empty pages in Alander
 Warning--empty journal in Canfora
 Warning--empty year in Canfora; set to ????
 Warning--empty journal in Tracey1998
-Warning--empty journal in Gro
 Warning--empty journal in Nevedrov2007
-You've used 40 entries,
+You've used 38 entries,
             2616 wiz_defined-function locations,
-            812 strings with 11481 characters,
-and the built_in function-call counts, 19945 in all, are:
-= -- 1586
-> -- 790
-< -- 23
-+ -- 302
-- -- 258
-* -- 2278
-:= -- 3210
-add.period$ -- 40
-call.type$ -- 40
-change.case$ -- 281
-chr.to.int$ -- 40
-cite$ -- 58
-duplicate$ -- 1292
-empty$ -- 1287
-format.name$ -- 359
-if$ -- 3565
+            801 strings with 11108 characters,
+and the built_in function-call counts, 19139 in all, are:
+= -- 1520
+> -- 761
+< -- 22
++ -- 289
+- -- 249
+* -- 2198
+:= -- 3071
+add.period$ -- 38
+call.type$ -- 38
+change.case$ -- 268
+chr.to.int$ -- 38
+cite$ -- 55
+duplicate$ -- 1241
+empty$ -- 1235
+format.name$ -- 346
+if$ -- 3423
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 273
-newline$ -- 182
-num.names$ -- 156
-pop$ -- 343
+missing$ -- 264
+newline$ -- 175
+num.names$ -- 148
+pop$ -- 325
 preamble$ -- 1
-purify$ -- 284
+purify$ -- 271
 quote$ -- 0
-skip$ -- 411
+skip$ -- 392
 stack$ -- 0
-substring$ -- 881
-swap$ -- 992
+substring$ -- 840
+swap$ -- 964
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 354
-warning$ -- 16
-while$ -- 151
+type$ -- 336
+warning$ -- 15
+while$ -- 145
 width$ -- 0
-write$ -- 489
-(There were 16 warnings)
+write$ -- 468
+(There were 15 warnings)
