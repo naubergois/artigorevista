@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 DEC 2015 02:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 DEC 2015 19:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1234,93 +1234,38 @@ Underfull \hbox (badness 1466) in paragraph at lines 1--1
 
 [3 <./images/workloadmodel1.png> <./images/workloadmodel2.png> <./images/metahe
 uristc2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []|\OT1/txr/bx/n/10 Functional
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 43--43
 []|$[]$| 
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 43--43
 []|$[]$| 
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 38--38
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 43--43
 []|$[]$| 
  []
 
 
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 39--39
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 45--45
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
  []
 
 
-Overfull \hbox (42.38353pt too wide) in paragraph at lines 39--39
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 40--40
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 40--40
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 41--41
-[]|$[]$| 
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 41--41
-[]|$[]$| 
- []
-
-
-Overfull \hbox (12.65964pt too wide) in paragraph at lines 44--45
-[]|[]| 
- []
-
-
-Overfull \hbox (4.94267pt too wide) in paragraph at lines 45--45
-[]|$[]$| 
+Overfull \hbox (42.38353pt too wide) in paragraph at lines 45--45
+[]|$[]$|| 
  []
 
 
@@ -1329,12 +1274,67 @@ Overfull \hbox (12.65964pt too wide) in paragraph at lines 46--46
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+
 Overfull \hbox (4.94267pt too wide) in paragraph at lines 46--46
 []|$[]$| 
  []
 
 
-Overfull \hbox (15.38832pt too wide) in paragraph at lines 35--48
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 46--46
+[]|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 46--46
+[]|$[]$|| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 47--47
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 47--47
+[]|$[]$|| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 48--48
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 48--48
+[]|$[]$|| 
+ []
+
+
+Overfull \hbox (12.65964pt too wide) in paragraph at lines 50--51
+[]|[]| 
+ []
+
+
+Overfull \hbox (4.94267pt too wide) in paragraph at lines 51--51
+[]|$[]$| 
+ []
+
+
+Overfull \hbox (15.38832pt too wide) in paragraph at lines 40--56
  [][] 
  []
 
@@ -1362,8 +1362,8 @@ File: ./images/solution.png Graphic file (type png)
 <use ./images/solution.png>
 Package pdftex.def Info: ./images/solution.png used on input line 28.
 (pdftex.def)             Requested size: 163.80286pt x 397.02562pt.
-
-<./images/independ.png, id=25, 354.23682pt x 268.49918pt>
+ [4]
+<./images/independ.png, id=29, 354.23682pt x 268.49918pt>
 File: ./images/independ.png Graphic file (type png)
 
 <use ./images/independ.png>
@@ -1377,7 +1377,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 40--41
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/collaborative.png, id=26, 654.445pt x 302.12875pt>
+<./images/collaborative.png, id=30, 654.445pt x 302.12875pt>
 File: ./images/collaborative.png Graphic file (type png)
 
 <use ./images/collaborative.png>
@@ -1388,7 +1388,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 45--46
 [][] 
  []
 
-[4] <./images/genomerepresentation.png, id=31, 582.14339pt x 540.98174pt>
+<./images/genomerepresentation.png, id=31, 582.14339pt x 540.98174pt>
 File: ./images/genomerepresentation.png Graphic file (type png)
 
 <use ./images/genomerepresentation.png>
@@ -1422,12 +1422,12 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 65--66
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
+[5 <./images/diagram.png> <./images/solution.png>]
 Underfull \hbox (badness 1122) in paragraph at lines 84--85
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
  []
 
-[5 <./images/diagram.png> <./images/solution.png>]
+
 Underfull \hbox (badness 1248) in paragraph at lines 96--97
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion's fit-nesse func-tion uses a
  []
@@ -1535,7 +1535,7 @@ Here is how much of TeX's memory you used:
  16711 multiletter control sequences out of 15000+200000
  38242 words of font info for 94 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 53i,20n,97p,1139b,1276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,20n,97p,1144b,1276s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local
 /texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
@@ -1546,7 +1546,7 @@ ype1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/u
 zdr.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35049150 bytes).
+, 35049563 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
