@@ -36,6 +36,9 @@
 \usepackage{graphicx}
 %% The amssymb package provides various useful mathematical symbols
 \usepackage{amssymb}
+\usepackage{rotating}
+
+
 %% The amsthm package provides extended theorem environments
 %% \usepackage{amsthm}
 
@@ -94,6 +97,9 @@
 \DeclareCaptionFormat{listing}{\colorbox[RGB]{60,100,180}{\parbox{0.40\textwidth - 2 \fboxsep}{\hspace{8pt}#1#2#3}}}
 \captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white, singlelinecheck=false, margin=0pt, font={bf,footnotesize}}
 
+%\widowpenalties 1 10000
+%\raggedbottom
+
 \includeonly{texfiles/planning.tex}
 
 \journal{Systems and Software}
@@ -104,7 +110,7 @@
 
 %% Title, authors and addresses
 
-\title{Improving Load, Performance and Stress Evolutionary Testing using a Hybrid Metaheuristic Approach}
+\title{Improving Load, Performance and Stress Search Based Testing using a Hybrid Metaheuristic Approach}
 %collaborative approach}
 
 %% use the tnoteref command within \title for footnotes;
@@ -145,7 +151,7 @@ Avenida Pontes Vieria ,832, Fortaleza, Cear\'a 60130-240}
 
 
 \begin{keyword}
-Evolutionary Testing \sep Tabu Search \sep Hybrid Metaheuristics
+Search Based Testing \sep Tabu Search \sep Hybrid Metaheuristics
 %% keywords here, in the form: keyword \sep keyword
 
 %% MSC codes here, in the form: \MSC code \sep code

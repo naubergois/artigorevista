@@ -7,6 +7,36 @@
 
 %% Saved with string encoding Unicode (UTF-8) 
 
+
+@article{DiAlesio2014,
+abstract = {Real-Time Embedded Systems (RTES) in safety-critical domains, such as maritime and energy, must satisfy strict performance requirements to be deemed safe. Therefore, such systems have to be thoroughly tested to ensure their correct behavior even under the worst operating conditions. In this paper, we address the need of deriving worst case scenarios with respect to three common performance requirements, namely task deadlines, response time, and CPU usage. Specifically, we investigate whether this worst-case analysis can be effectively re-expressed as a Constrained Optimization Problem (COP) over the space of possible inputs to the system. Solving this problem means finding the sets of inputs that maximize the chance to violate performance requirements at runtime. Such inputs can in turn be used to test if the target RTES meets the expected performance even in the worst case. We develop an OPL model for IBM ILOG CP Optimizer that implements a task priority-based preemptive scheduling, and apply it to a case study from the maritime and energy domain. Our validation shows that (1) the input to our model can be provided with reasonable effort in an industrial setting, and (2) the COP effectively identifies test cases that maximize deadline misses, response time, and CPU usage.},
+author = {{Di Alesio}, Stefano and Nejati, Shiva and Briand, Lionel and Gotlieb, Arnaud},
+doi = {10.1007/978-3-319-10428-7{\_}58},
+file = {:Users/naubergois/Documents/10.0000@www.researchgate.net@263361939 (1).pdf:pdf},
+journal = {Principles and Practice of Constraint Programming},
+pages = {813--830},
+title = {{Worst-Case Scheduling of Software Tasks – A Constraint Optimization Model to Support Performance Testing}},
+url = {http://link.springer.com/10.1007/978-3-319-10428-7{\_}58},
+year = {2014}
+}
+
+
+
+@article{DiAlesio2013,
+abstract = {Safety-critical Real Time Embedded Systems (RT-ESs) are usually subject to strict timing and performance requirements that must be satisfied for the system to be deemed safe. In this paper, we use effective search strategies whose goal is finding worst case scenarios with respect to deadline misses. Such scenarios can in turn be used to test the target RTES and ensure that it satisfies its timing requirements even under worst case conditions. Specifically, we develop an approach based on Constraint Programming (CP) to automate the generation of test cases that reveal, or are likely to, task deadline misses. We evaluate it through a comparison with a state-of-the-art approach based on Genetic Algorithms (GA). In particular, we compare CP and GA in five case studies for efficiency, effectiveness, and scalability. Our experimental results show that, on the largest and more complex case studies, CP performs significantly better than GA. Furthermore, CP offers some advantages over GA, such as it guarantees a complete search when there is sufficient time, and, being deterministic, it doesn't rely on parameters that potentially have a significant effect on the search and therefore need to be tuned. Hence, we conclude that our results are encouraging and suggest this is an advantageous approach for stress testing of RTESs with respect to timing constraints.},
+author = {{Di Alesio}, S and Nejati, S and Briand, L and Gotlieb, A},
+doi = {10.1109/ISSRE.2013.6698915},
+file = {:Users/naubergois/Documents/10.0000@www.computer.org@generic-DD33B05EC8B4.pdf:pdf},
+isbn = {9781479923663},
+journal = {IEEE Xplore},
+keywords = {constraint pro-,real-time systems,stress testing},
+pages = {158--167},
+title = {{Stress testing of task deadlines: A constraint programming approach}},
+year = {2013}
+}
+
+
+
 @article{Alesio2015,
 author = {Alesio, Stefano D I and Briand, Lionel C and Nejati, Shiva and Gotlieb, Arnaud},
 file = {:Users/naubergois/Documents/a4-dialesio.pdf:pdf},
