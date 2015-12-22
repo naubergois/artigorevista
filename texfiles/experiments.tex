@@ -45,9 +45,19 @@ The first experiment aimed to apply performance, load and stress testing in a si
 \begin{lstlisting}[style=outline,caption={SimulateConcurrentAcess class},float,label=classsimulated]
 public class SimulateConcurrentAccess {
   @Test
-  public void test() {		
+  public void firstScenario() {		
     synchronized (StaticClass.class) {
 			for (int i = 0; i <= 1000; i++) {
+				StaticClass.x += i;
+			}
+			StaticClass.x = 0;
+		}
+	}
+	
+	  @Test
+  public void secondScenario() {		
+    synchronized (StaticClass.class) {
+			for (int i = 0; i <= 2000; i++) {
 				StaticClass.x += i;
 			}
 			StaticClass.x = 0;
@@ -177,11 +187,42 @@ Id&Fit&Scenario&Users&90per&80per&70per\\ \hline
 
 The Fig. \ref{fig:gened} presents the percentage of genes in all test scenarios by generation with and without colaboration. Most of genes converges to the MyHome feature which has the highest application response time.
 
-\begin{figure}[h]
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
 \centering
-\caption{Percentage of genes in all test scenarios by generation }
-\includegraphics[width=0.5\textwidth]{./images/gened.png}
-\label{fig:gened}
-\end{figure}
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{c|c|c|c|c|c|c|c|}
+\hline
+\rowcolor[HTML]{009901} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{FFFFFF}\textbf{Gen/}}   & \multicolumn{7}{c|}{\cellcolor[HTML]{009901}\textbf{Non collaboration approach}}                                                                                                                                                       \\ \cline{2-8} 
+\multicolumn{1}{|c|}{\textbf{Scenarios}}                      & \cellcolor[HTML]{F8FF00}Initial & \cellcolor[HTML]{F8FF00}1 & \cellcolor[HTML]{F8FF00}2 & \cellcolor[HTML]{F8FF00}3 & \cellcolor[HTML]{F8FF00}4 & \cellcolor[HTML]{F8FF00}5 & \cellcolor[HTML]{F8FF00}6                                \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Badges}          & 20                              & 18                        & 16                        & 24                        & 15                        & 16                        & 17                                                       \\ \hline
+\rowcolor[HTML]{F8FF00} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{F8FF00}\textbf{MyHome}} & \textbf{15}                     & \textbf{59}               & \textbf{55}               & \textbf{48}               & \textbf{53}               & \textbf{50}               & \multicolumn{1}{l|}{\cellcolor[HTML]{F8FF00}\textbf{52}} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}StartPage}       & 15                              & 10                        & 12                        & 11                        & 20                        & 18                        & \multicolumn{1}{l|}{19}                                  \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Notifications}   & 25                              & 5                         & 11                        & 10                        & 9                         & 10                        & \multicolumn{1}{l|}{9}                                   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Post}            & 8                               & 3                         & 1                         & 3                         & 1                         & 2                         & \multicolumn{1}{l|}{1}                                   \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Login}           & 17                              & 5                         & 5                         & 4                         & 2                         & 4                         & \multicolumn{1}{l|}{2}                                   \\ \hline
+\multicolumn{1}{l|}{}                                         & \multicolumn{7}{c|}{\cellcolor[HTML]{009901}\textbf{Collaboration approach}}                                                                                                                                                           \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Badges}          & 20                              & 29                        & 16                        & 25                        & 9                         & 16                        & 9                                                        \\ \hline
+\rowcolor[HTML]{F8FF00} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{F8FF00}\textbf{MyHome}} & \textbf{15}                     & \textbf{29}               & \textbf{69}               & \textbf{49}               & \textbf{74}               & \textbf{66}               & \textbf{76}                                              \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}StartPage}       & 15                              & 22                        & 10                        & 21                        & 10                        & 10                        & 8                                                        \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Nofications}     & 25                              & 10                        & 1                         & 1                         & 2                         & 1                         & 3                                                        \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Post}            & 8                               & 2                         & 1                         & 1                         & 1                         & 2                         & 1                                                        \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{009901}Login}           & 17                              & 8                         & 3                         & 3                         & 4                         & 5                         & 3                                                        \\ \hline
+\end{tabular}
+\end{table}
+
+
+%\begin{figure}[h]
+%\centering
+%\caption{Percentage of genes in all test scenarios by generation }
+%\includegraphics[width=0.5\textwidth]{./images/gened.png}
+%\label{fig:gened}
+%\end{figure}
 
  
