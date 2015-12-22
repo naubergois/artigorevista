@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  14 DEC 2015 02:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 DEC 2015 00:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1196,31 +1196,55 @@ File: utxsyc.fd 2000/12/15 v3.1
 Missing character: There is no Ã in font txi!
 Missing character: There is no § in font txi!
 
-(./texfiles/introduction.tex) (./texfiles/loadtest.tex [1{/usr/local/texlive/20
-12/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./texfiles/introduction.tex
+<./images/diagram.png, id=1, 617.23512pt x 535.95508pt>
+File: ./images/diagram.png Graphic file (type png)
+
+<use ./images/diagram.png>
+Package pdftex.def Info: ./images/diagram.png used on input line 35.
+(pdftex.def)             Requested size: 187.19714pt x 162.54604pt.
+ [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 47.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
+File: omstxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 47.
+
+<./images/solution.png, id=12, 473.73839pt x 1148.25839pt>
+File: ./images/solution.png Graphic file (type png)
+
+<use ./images/solution.png>
+Package pdftex.def Info: ./images/solution.png used on input line 56.
+(pdftex.def)             Requested size: 163.80286pt x 397.02562pt.
+) (./texfiles/loadtest.tex [2 <./images/diagram.png> <./images/solution.png>]
 Underfull \hbox (badness 1430) in paragraph at lines 10--11
 []\OT1/txr/m/n/10 Stress test ver-i-fies the sys-tem be-haviour against
  []
 
 ) (./texfiles/workload.tex
-<./images/workloadmodel1.png, id=10, 477.785pt x 432.60835pt>
+<./images/workloadmodel1.png, id=19, 477.785pt x 432.60835pt>
 File: ./images/workloadmodel1.png Graphic file (type png)
 
 <use ./images/workloadmodel1.png>
 Package pdftex.def Info: ./images/workloadmodel1.png used on input line 25.
 (pdftex.def)             Requested size: 187.19714pt x 169.4955pt.
- [2]
-<./images/workloadmodel2.png, id=15, 475.76169pt x 432.60835pt>
+
+<./images/workloadmodel2.png, id=20, 475.76169pt x 432.60835pt>
 File: ./images/workloadmodel2.png Graphic file (type png)
 
 <use ./images/workloadmodel2.png>
 Package pdftex.def Info: ./images/workloadmodel2.png used on input line 35.
 (pdftex.def)             Requested size: 187.19714pt x 170.21501pt.
 ) (./texfiles/hmeta.tex
-<./images/metaheuristc2.png, id=16, 509.87338pt x 274.94847pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+<./images/metaheuristc2.png, id=24, 509.87338pt x 274.94847pt>
 File: ./images/metaheuristc2.png Graphic file (type png)
 
 <use ./images/metaheuristc2.png>
@@ -1231,8 +1255,112 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 12--13
 [][] 
  []
 
-) (./texfiles/evolutionary.tex [3 <./images/workloadmodel1.png> <./images/workl
-oadmodel2.png> <./images/metaheuristc2.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./texfiles/improving.tex
+<./images/independ.png, id=25, 354.23682pt x 268.49918pt>
+File: ./images/independ.png Graphic file (type png)
+
+<use ./images/independ.png>
+Package pdftex.def Info: ./images/independ.png used on input line 11.
+(pdftex.def)             Requested size: 234.0pt x 177.36157pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/collaborative.png, id=26, 654.445pt x 302.12875pt>
+File: ./images/collaborative.png Graphic file (type png)
+
+<use ./images/collaborative.png>
+Package pdftex.def Info: ./images/collaborative.png used on input line 16.
+(pdftex.def)             Requested size: 234.0pt x 108.02403pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 16--17
+[][] 
+ []
+
+[4 <./images/workloadmodel1.png> <./images/workloadmodel2.png> <./images/metahe
+uristc2.png>]
+<./images/genomerepresentation.png, id=33, 582.14339pt x 540.98174pt>
+File: ./images/genomerepresentation.png Graphic file (type png)
+
+<use ./images/genomerepresentation.png>
+Package pdftex.def Info: ./images/genomerepresentation.png used on input line 2
+8.
+(pdftex.def)             Requested size: 234.0pt x 217.4537pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 28--29
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 33--34
+\OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
+ []
+
+<./images/TabuNE.png, id=34, 582.14339pt x 438.5518pt>
+File: ./images/TabuNE.png Graphic file (type png)
+
+<use ./images/TabuNE.png>
+Package pdftex.def Info: ./images/TabuNE.png used on input line 36.
+(pdftex.def)             Requested size: 234.0pt x 176.28084pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 36--37
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 5345) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 55--56
+[]\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 67--68
+[]\OT1/txr/m/n/10 The pro-posed so-lu-tion's fit-nesse func-tion uses a
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 67--68
+\OT1/txr/m/n/10 se-ries of adapt-able user-defined weights ( 90per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+\OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
+ []
+
+[5 <./images/independ.png> <./images/collaborative.png> <./images/genomereprese
+ntation.png>]) (./texfiles/iadapter.tex
+<./images/tela1iadapter.png, id=41, 997.7275pt x 674.52pt>
+File: ./images/tela1iadapter.png Graphic file (type png)
+
+<use ./images/tela1iadapter.png>
+Package pdftex.def Info: ./images/tela1iadapter.png used on input line 11.
+(pdftex.def)             Requested size: 234.0pt x 158.19316pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./texfiles/evolutionary.tex [6 <./images/TabuNE.png> <./images/tela1iadapter
+.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []|\OT1/txr/bx/n/10 Functional
  []
@@ -1352,125 +1480,16 @@ Overfull \hbox (49.10999pt too wide) in paragraph at lines 63--71
  [][] 
  []
 
-) (./texfiles/improving.tex
-<./images/diagram.png, id=23, 617.23512pt x 535.95508pt>
-File: ./images/diagram.png Graphic file (type png)
-
-<use ./images/diagram.png>
-Package pdftex.def Info: ./images/diagram.png used on input line 8.
-(pdftex.def)             Requested size: 187.19714pt x 162.54604pt.
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 19.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/txfonts/omstxr.fd
-File: omstxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 19.
- [4]
-<./images/solution.png, id=28, 473.73839pt x 1148.25839pt>
-File: ./images/solution.png Graphic file (type png)
-
-<use ./images/solution.png>
-Package pdftex.def Info: ./images/solution.png used on input line 29.
-(pdftex.def)             Requested size: 163.80286pt x 397.02562pt.
-
-<./images/independ.png, id=29, 354.23682pt x 268.49918pt>
-File: ./images/independ.png Graphic file (type png)
-
-<use ./images/independ.png>
-Package pdftex.def Info: ./images/independ.png used on input line 41.
-(pdftex.def)             Requested size: 234.0pt x 177.36157pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 41--42
-[][] 
- []
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/collaborative.png, id=30, 654.445pt x 302.12875pt>
-File: ./images/collaborative.png Graphic file (type png)
-
-<use ./images/collaborative.png>
-Package pdftex.def Info: ./images/collaborative.png used on input line 46.
-(pdftex.def)             Requested size: 234.0pt x 108.02403pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 46--47
-[][] 
- []
-
-<./images/genomerepresentation.png, id=31, 582.14339pt x 540.98174pt>
-File: ./images/genomerepresentation.png Graphic file (type png)
-
-<use ./images/genomerepresentation.png>
-Package pdftex.def Info: ./images/genomerepresentation.png used on input line 5
-8.
-(pdftex.def)             Requested size: 234.0pt x 217.4537pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 58--59
-[][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 63--64
-\OT1/txr/m/n/10 Search and Sim-u-lated An-neal-ing al-go-rithms. The
- []
-
-[5 <./images/diagram.png> <./images/solution.png>]
-<./images/TabuNE.png, id=37, 582.14339pt x 438.5518pt>
-File: ./images/TabuNE.png Graphic file (type png)
-
-<use ./images/TabuNE.png>
-Package pdftex.def Info: ./images/TabuNE.png used on input line 66.
-(pdftex.def)             Requested size: 234.0pt x 176.28084pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 66--67
-[][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 85--86
-[]\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 97--98
-[]\OT1/txr/m/n/10 The pro-posed so-lu-tion's fit-nesse func-tion uses a
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 97--98
-\OT1/txr/m/n/10 se-ries of adapt-able user-defined weights ( 90per-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-\OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
- []
-
-) (./texfiles/iadapter.tex [6 <./images/independ.png> <./images/collaborative.p
-ng> <./images/genomerepresentation.png>]
-<./images/tela1iadapter.png, id=44, 997.7275pt x 674.52pt>
-File: ./images/tela1iadapter.png Graphic file (type png)
-
-<use ./images/tela1iadapter.png>
-Package pdftex.def Info: ./images/tela1iadapter.png used on input line 11.
-(pdftex.def)             Requested size: 234.0pt x 158.19316pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
-[][] 
- []
 
 ) (./texfiles/experiments.tex
+Underfull \vbox (badness 2753) has occurred while \output is active []
+
+ [7]
 (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
-) [7 <./images/TabuNE.png> <./images/tela1iadapter.png>]
+)
 <./images/generationcomparative.png, id=53, 953.54669pt x 505.79515pt>
 File: ./images/generationcomparative.png Graphic file (type png)
 
@@ -1511,6 +1530,10 @@ Overfull \hbox (21.54588pt too wide) in paragraph at lines 157--175
  [][] 
  []
 
+
+Underfull \vbox (badness 2134) has occurred while \output is active []
+
+
 <./images/gened.png, id=59, 780.83847pt x 979.62839pt>
 File: ./images/gened.png Graphic file (type png)
 
@@ -1522,24 +1545,13 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 183--185
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./texfiles/conclusion.tex
-Underfull \vbox (badness 7397) has occurred while \output is active []
-
-)
+) (./texfiles/conclusion.tex) [9 <./images/gened.png>]
 (/Users/naubergois/artigorevista/.texpadtmp/main.bbl
-Underfull \vbox (badness 6125) has occurred while \output is active []
-
- [9 <./images/gened.png>]
-Underfull \vbox (badness 1270) has occurred while \output is active []
-
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no “ in font txr!
 
-Underfull \hbox (badness 1127) in paragraph at lines 247--255
+Underfull \hbox (badness 1127) in paragraph at lines 160--167
 \OT1/txr/m/n/8 Schedul-ing of Soft-ware Tasks  A Con-straint Op-ti-miza-tion
  []
 
@@ -1562,7 +1574,7 @@ mes/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 35201980 bytes).
+, 35201772 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream

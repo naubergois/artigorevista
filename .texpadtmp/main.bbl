@@ -54,6 +54,13 @@
 \newblock \bibinfo{title}{{Os custos dos Testes de Desempenho e Estresse}}
   (\bibinfo{year}{2004}).
 %Type = Article
+\bibitem[{Barna et~al.(2011)Barna, Litoiu, and Ghanbari}]{Barna2011}
+\bibinfo{author}{C.~Barna}, \bibinfo{author}{M.~Litoiu},
+  \bibinfo{author}{H.~Ghanbari},
+\newblock \bibinfo{title}{{Autonomic load-testing framework}},
+\newblock \bibinfo{journal}{\ldots international conference on Autonomic
+  \ldots}  (\bibinfo{year}{2011}) \bibinfo{pages}{91--100}.
+%Type = Article
 \bibitem[{Afzal et~al.(2009)Afzal, Torkar, and Feldt}]{Afzal2009a}
 \bibinfo{author}{W.~Afzal}, \bibinfo{author}{R.~Torkar},
   \bibinfo{author}{R.~Feldt},
@@ -138,6 +145,24 @@
 \newblock \bibinfo{title}{{Traffic-aware Stress Testing of Distributed
   Real-Time Systems based on UML Models using Genetic Algorithms}}
   (\bibinfo{year}{2006}).
+%Type = Article
+\bibitem[{{Di Alesio} et~al.(2013){Di Alesio}, Nejati, Briand, and
+  Gotlieb}]{DiAlesio2013}
+\bibinfo{author}{S.~{Di Alesio}}, \bibinfo{author}{S.~Nejati},
+  \bibinfo{author}{L.~Briand}, \bibinfo{author}{A.~Gotlieb},
+\newblock \bibinfo{title}{{Stress testing of task deadlines: A constraint
+  programming approach}},
+\newblock \bibinfo{journal}{IEEE Xplore}  (\bibinfo{year}{2013})
+  \bibinfo{pages}{158--167}.
+%Type = Article
+\bibitem[{{Di Alesio} et~al.(2014){Di Alesio}, Nejati, Briand, and
+  Gotlieb}]{DiAlesio2014}
+\bibinfo{author}{S.~{Di Alesio}}, \bibinfo{author}{S.~Nejati},
+  \bibinfo{author}{L.~Briand}, \bibinfo{author}{A.~Gotlieb},
+\newblock \bibinfo{title}{{Worst-Case Scheduling of Software Tasks – A
+  Constraint Optimization Model to Support Performance Testing}},
+\newblock \bibinfo{journal}{Principles and Practice of Constraint Programming}
+  (\bibinfo{year}{2014}) \bibinfo{pages}{813--830}.
 %Type = Article
 \bibitem[{Alesio et~al.(2015)Alesio, Briand, Nejati, and Gotlieb}]{Alesio2015}
 \bibinfo{author}{S.~D.~I. Alesio}, \bibinfo{author}{L.~C. Briand},
@@ -242,24 +267,6 @@
 \newblock \bibinfo{title}{{Automated Programme Flaw Finding using Simulated
   Annealing}}  (\bibinfo{year}{1998}).
 %Type = Article
-\bibitem[{{Di Alesio} et~al.(2014){Di Alesio}, Nejati, Briand, and
-  Gotlieb}]{DiAlesio2014}
-\bibinfo{author}{S.~{Di Alesio}}, \bibinfo{author}{S.~Nejati},
-  \bibinfo{author}{L.~Briand}, \bibinfo{author}{A.~Gotlieb},
-\newblock \bibinfo{title}{{Worst-Case Scheduling of Software Tasks – A
-  Constraint Optimization Model to Support Performance Testing}},
-\newblock \bibinfo{journal}{Principles and Practice of Constraint Programming}
-  (\bibinfo{year}{2014}) \bibinfo{pages}{813--830}.
-%Type = Article
-\bibitem[{{Di Alesio} et~al.(2013){Di Alesio}, Nejati, Briand, and
-  Gotlieb}]{DiAlesio2013}
-\bibinfo{author}{S.~{Di Alesio}}, \bibinfo{author}{S.~Nejati},
-  \bibinfo{author}{L.~Briand}, \bibinfo{author}{A.~Gotlieb},
-\newblock \bibinfo{title}{{Stress testing of task deadlines: A constraint
-  programming approach}},
-\newblock \bibinfo{journal}{IEEE Xplore}  (\bibinfo{year}{2013})
-  \bibinfo{pages}{158--167}.
-%Type = Article
 \bibitem[{Pohlheim et~al.(2005)Pohlheim, Conrad, and Griep}]{Pohlheim2005}
 \bibinfo{author}{H.~Pohlheim}, \bibinfo{author}{M.~Conrad},
   \bibinfo{author}{A.~Griep},
@@ -267,13 +274,6 @@
   Software by Automatically Generating Compact Test Data Sequences}},
 \newblock \bibinfo{journal}{Analysis}  (\bibinfo{year}{2005})
   \bibinfo{pages}{804----814}.
-%Type = Article
-\bibitem[{Barna et~al.(2011)Barna, Litoiu, and Ghanbari}]{Barna2011}
-\bibinfo{author}{C.~Barna}, \bibinfo{author}{M.~Litoiu},
-  \bibinfo{author}{H.~Ghanbari},
-\newblock \bibinfo{title}{{Autonomic load-testing framework}},
-\newblock \bibinfo{journal}{\ldots international conference on Autonomic
-  \ldots}  (\bibinfo{year}{2011}) \bibinfo{pages}{91--100}.
 %Type = Article
 \bibitem[{Nevedrov(2007)}]{Nevedrov2007}
 \bibinfo{author}{D.~Nevedrov},
