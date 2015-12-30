@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 DEC 2015 08:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 DEC 2015 03:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1233,17 +1233,14 @@ File: ./images/workloadmodel1.png Graphic file (type png)
 <use ./images/workloadmodel1.png>
 Package pdftex.def Info: ./images/workloadmodel1.png used on input line 25.
 (pdftex.def)             Requested size: 187.19714pt x 169.4955pt.
-
-<./images/workloadmodel2.png, id=20, 475.76169pt x 432.60835pt>
+ [3]
+<./images/workloadmodel2.png, id=23, 475.76169pt x 432.60835pt>
 File: ./images/workloadmodel2.png Graphic file (type png)
 
 <use ./images/workloadmodel2.png>
 Package pdftex.def Info: ./images/workloadmodel2.png used on input line 35.
 (pdftex.def)             Requested size: 187.19714pt x 170.21501pt.
 ) (./texfiles/hmeta.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
 <./images/metaheuristc2.png, id=24, 509.87338pt x 274.94847pt>
 File: ./images/metaheuristc2.png Graphic file (type png)
 
@@ -1254,9 +1251,6 @@ Package pdftex.def Info: ./images/metaheuristc2.png used on input line 12.
 Overfull \hbox (12.0pt too wide) in paragraph at lines 12--13
 [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./texfiles/improving.tex
 <./images/independ.png, id=25, 354.23682pt x 268.49918pt>
@@ -1317,13 +1311,8 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 36--37
 [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 5345) has occurred while \output is active []
-
-
+[5 <./images/independ.png> <./images/collaborative.png> <./images/genomereprese
+ntation.png> <./images/TabuNE.png>]
 Underfull \hbox (badness 1122) in paragraph at lines 55--56
 []\OT1/txr/m/n/10 The pro-posed so-lu-tion was de-signed to be used
  []
@@ -1343,9 +1332,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 \OT1/txr/m/n/10 maxRe-spon-seWeigth and num-berO-fUser-sWeigth).
  []
 
-[5 <./images/independ.png> <./images/collaborative.png> <./images/genomereprese
-ntation.png>]) (./texfiles/iadapter.tex
-<./images/tela1iadapter.png, id=41, 997.7275pt x 674.52pt>
+) (./texfiles/iadapter.tex
+<./images/tela1iadapter.png, id=42, 997.7275pt x 674.52pt>
 File: ./images/tela1iadapter.png Graphic file (type png)
 
 <use ./images/tela1iadapter.png>
@@ -1359,8 +1347,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 11--12
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./texfiles/evolutionary.tex [6 <./images/TabuNE.png> <./images/tela1iadapter
-.png>]
+) (./texfiles/evolutionary.tex [6 <./images/tela1iadapter.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []|\OT1/txr/bx/n/10 Functional
  []
@@ -1483,10 +1470,7 @@ Overfull \hbox (49.10999pt too wide) in paragraph at lines 63--71
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./texfiles/experiments.tex
-Underfull \vbox (badness 2753) has occurred while \output is active []
-
- [7]
+) (./texfiles/experiments.tex [7]
 (/usr/local/texlive/2012/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
@@ -1534,16 +1518,12 @@ Overfull \hbox (21.54588pt too wide) in paragraph at lines 167--185
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:gened' on page 9 undefined on input line 188.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 193.
-
-
 Overfull \hbox (13.15994pt too wide) in paragraph at lines 197--218
  [][] 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./texfiles/conclusion.tex)
 (/Users/naubergois/artigorevista/.texpadtmp/main.bbl [9]
@@ -1551,34 +1531,31 @@ Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no “ in font txr!
 
-Underfull \hbox (badness 1127) in paragraph at lines 160--167
+Underfull \hbox (badness 1127) in paragraph at lines 165--172
 \OT1/txr/m/n/8 Schedul-ing of Soft-ware Tasks  A Con-straint Op-ti-miza-tion
  []
 
-) [10] (/Users/naubergois/artigorevista/.texpadtmp/main.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) [10] (/Users/naubergois/artigorevista/.texpadtmp/main.aux) ) 
 Here is how much of TeX's memory you used:
- 13866 strings out of 493488
- 218393 string characters out of 3141326
+ 13865 strings out of 493488
+ 218383 string characters out of 3141326
  749395 words of memory out of 3000000
- 16814 multiletter control sequences out of 15000+200000
+ 16813 multiletter control sequences out of 15000+200000
  38242 words of font info for 94 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  53i,20n,97p,1144b,1276s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/20
-12/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2012/tex
-mf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2012/texmf-dist
-/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-dist/fonts/
-type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/
-times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr
-i8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+{/usr/local/texli
+ve/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2012/texmf-dis
+t/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2012/texmf-dist/fonts
+/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
+/public/txfonts/rtxr.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
+/txfonts/txsy.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utm
+b8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on /Users/naubergois/artigorevista/.texpadtmp/main.pdf (10 pages
-, 21753097 bytes).
+, 21752923 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream

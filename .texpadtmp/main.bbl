@@ -129,6 +129,11 @@
 \newblock \bibinfo{journal}{Hybrid Metaheuristics (LNCS 4030)}
   (\bibinfo{year}{2006}) \bibinfo{pages}{1--12}.
 %Type = Article
+\bibitem[{Nevedrov(2007)}]{Nevedrov2007}
+\bibinfo{author}{D.~Nevedrov},
+\newblock \bibinfo{title}{{Using JMeter to Performance Test Web Services}}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{1--11}.
+%Type = Article
 \bibitem[{Afz(2009)}]{Afzal2009}
 \bibinfo{title}{{A systematic review of search-based testing for non-functional
   system properties}},
@@ -274,10 +279,5 @@
   Software by Automatically Generating Compact Test Data Sequences}},
 \newblock \bibinfo{journal}{Analysis}  (\bibinfo{year}{2005})
   \bibinfo{pages}{804----814}.
-%Type = Article
-\bibitem[{Nevedrov(2007)}]{Nevedrov2007}
-\bibinfo{author}{D.~Nevedrov},
-\newblock \bibinfo{title}{{Using JMeter to Performance Test Web Services}}
-  (\bibinfo{year}{2007}) \bibinfo{pages}{1--11}.
 
 \end{thebibliography}
